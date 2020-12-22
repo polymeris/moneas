@@ -45,7 +45,7 @@ jobs:
 
 workflows:
   version: 2
-  test_and_update:
+  test-and-update:
     jobs:
       - test
       - update-afp-quotes:
@@ -54,3 +54,13 @@ workflows:
           filters:
             branches:
               only: master
+  nightly-update:
+    triggers:
+      - schedule:
+          cron: "28 2 * * 1-6"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - update-afp-quotes
