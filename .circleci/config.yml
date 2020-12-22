@@ -15,8 +15,9 @@ commands:
           fingerprints:
             - "12:ba:f4:f4:c5:ad:80:73:b0:2c:da:a9:36:5b:95:a0"
       - run:
-          name: Config git credentials
+          name: Install & config git
           command: |
+            apt install --no-install-recommends -yy git ssh-client
             git config user.email "ci-build@polymeris.dev"
             git config user.name "ci-build"
       - run:
