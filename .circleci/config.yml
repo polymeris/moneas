@@ -11,21 +11,21 @@ commands:
       message:
         type: string
     steps:
-      - add_ssh_keys:
-          fingerprints:
-            - "12:ba:f4:f4:c5:ad:80:73:b0:2c:da:a9:36:5b:95:a0"
       - run:
           name: Install & config git
           command: |
             apt install --no-install-recommends -yy git ssh-client
             git config user.email "ci-build@polymeris.dev"
             git config user.name "ci-build"
+      - add_ssh_keys:
+          fingerprints:
+            - "12:ba:f4:f4:c5:ad:80:73:b0:2c:da:a9:36:5b:95:a0"
       - run:
           name: Push to git
           command: |
             git checkout data
             git add -f out/*
-            git commit -m "<< parameters.message >> [ci skip]"
+            git commit --allow-empty -m "<< parameters.message >> [ci skip]"
             git push -u origin data
 
 jobs:
