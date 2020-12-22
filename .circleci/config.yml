@@ -6,20 +6,22 @@ executors:
       - image: borkdude/babashka:0.2.5
 
 commands:
+  setup-git:
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "12:ba:f4:f4:c5:ad:80:73:b0:2c:da:a9:36:5b:95:a0"
+      - run:
+          name: Install & config git
+          command: |
+            apt install --no-install-recommends -yy git ssh-client
+            git config --global user.email "ci-build@polymeris.dev"
+            git config --global user.name "ci-build"
   push-data:
     parameters:
       message:
         type: string
     steps:
-      - run:
-          name: Install & config git
-          command: |
-            apt install --no-install-recommends -yy git ssh-client
-            git config user.email "ci-build@polymeris.dev"
-            git config user.name "ci-build"
-      - add_ssh_keys:
-          fingerprints:
-            - "12:ba:f4:f4:c5:ad:80:73:b0:2c:da:a9:36:5b:95:a0"
       - run:
           name: Push to git
           command: |
@@ -38,6 +40,7 @@ jobs:
   update-afp-quotes:
     executor: bb
     steps:
+      - setup-git
       - checkout
       - run: src/afp_quotes.clj
       - push-data:
