@@ -1,0 +1,55 @@
+version: 2.1
+
+executors:
+  bb:
+    docker:
+      - image: borkdude/babashka:0.2.5
+
+commands:
+  push-data:
+    parameters:
+      message:
+        type: string
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "12:ba:f4:f4:c5:ad:80:73:b0:2c:da:a9:36:5b:95:a0"
+      - run:
+          name: Config git credentials
+          command: |
+            git config user.email "ci-build@polymeris.dev"
+            git config user.name "ci-build"
+      - run:
+          name: Push to git
+          command: |
+            git checkout data
+            git add -f out/*
+            git commit -m "<< parameters.message >> [ci skip]"
+            git push -u origin data
+
+jobs:
+  test:
+    executor: bb
+    steps:
+      - checkout
+      - run: src/afp_quotes.clj test
+
+  update-afp-quotes:
+    executor: bb
+    steps:
+      - checkout
+      - run: src/afp_quotes.clj
+      - push-data:
+          message: Update AFP quotes
+
+workflows:
+  version: 2
+  test_and_update:
+    jobs:
+      - test
+      - update-afp-quotes:
+          requires:
+            - test
+          filters:
+            branches:
+              only: master
