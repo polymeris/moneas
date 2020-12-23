@@ -60,7 +60,7 @@ workflows:
   nightly-update:
     triggers:
       - schedule:
-          cron: "28 2 * * 1-6"
+          cron: "25 7 * * 1-6"
           filters:
             branches:
               only:
