@@ -25,10 +25,10 @@ commands:
       - run:
           name: Push to git
           command: |
-            git checkout data
             git add -f out/*
-            git commit --allow-empty -m "<< parameters.message >> [ci skip]"
-            git push -u origin data
+            git checkout -B data
+            git commit -m "<< parameters.message >> [ci skip]"
+            git push -u origin data --force
 
 jobs:
   test:
@@ -37,21 +37,21 @@ jobs:
       - checkout
       - run: src/afp_quotes.clj test
 
-  update-afp-quotes:
+  update-quotes:
     executor: bb
     steps:
       - setup-git
       - checkout
       - run: src/afp_quotes.clj
       - push-data:
-          message: Update AFP quotes
+          message: Update quotes
 
 workflows:
   version: 2
   test-and-update:
     jobs:
       - test
-      - update-afp-quotes:
+      - update-quotes:
           requires:
             - test
           filters:
@@ -66,4 +66,4 @@ workflows:
               only:
                 - master
     jobs:
-      - update-afp-quotes
+      - update-quotes
