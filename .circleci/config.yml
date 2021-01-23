@@ -36,6 +36,7 @@ jobs:
     steps:
       - checkout
       - run: src/afp_quotes.clj test
+      - run: src/btg_quotes.clj test
 
   update-quotes:
     executor: bb
@@ -43,6 +44,7 @@ jobs:
       - setup-git
       - checkout
       - run: src/afp_quotes.clj
+      - run: src/btg_quotes.clj
       - push-data:
           message: Update quotes
 
