@@ -3,7 +3,7 @@ version: 2.1
 executors:
   bb:
     docker:
-      - image: babashka/babashka:0.2.5
+      - image: babashka/babashka:latest
 
 commands:
   setup-git:
