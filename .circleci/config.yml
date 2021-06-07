@@ -35,6 +35,7 @@ jobs:
   test:
     executor: bb
     steps:
+      - setup-git
       - checkout
       - run: src/afp_quotes.clj test
       - run: src/btg_quotes.clj test
