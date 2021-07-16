@@ -1,0 +1,2613 @@
+[ {
+  "date" : "2019-10-01",
+  "value" : 48000.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-02",
+  "value" : 47999.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-03",
+  "value" : 47929.70,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-04",
+  "value" : 48090.83,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-05",
+  "value" : 48090.83,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-06",
+  "value" : 48090.83,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-07",
+  "value" : 48210.12,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-08",
+  "value" : 48319.21,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-09",
+  "value" : 48373.18,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-10",
+  "value" : 48564.62,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-11",
+  "value" : 48499.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-12",
+  "value" : 48499.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-13",
+  "value" : 48499.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-14",
+  "value" : 48478.93,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-15",
+  "value" : 48493.81,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-16",
+  "value" : 48612.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-17",
+  "value" : 48607.62,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-18",
+  "value" : 48406.53,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-19",
+  "value" : 48406.53,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-20",
+  "value" : 48406.53,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-21",
+  "value" : 48163.46,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-22",
+  "value" : 48196.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-23",
+  "value" : 48028.40,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-24",
+  "value" : 48036.44,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-25",
+  "value" : 48092.15,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-26",
+  "value" : 48092.15,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-27",
+  "value" : 48092.15,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-28",
+  "value" : 48185.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-29",
+  "value" : 48155.49,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-30",
+  "value" : 47988.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-10-31",
+  "value" : 47988.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-01",
+  "value" : 47988.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-02",
+  "value" : 47988.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-03",
+  "value" : 47988.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-04",
+  "value" : 48278.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-05",
+  "value" : 48471.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-06",
+  "value" : 48624.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-07",
+  "value" : 48502.69,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-08",
+  "value" : 48527.14,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-09",
+  "value" : 48527.14,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-10",
+  "value" : 48527.14,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-11",
+  "value" : 48758.48,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-12",
+  "value" : 48780.44,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-13",
+  "value" : 48943.67,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-14",
+  "value" : 48495.28,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-15",
+  "value" : 47959.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-16",
+  "value" : 47959.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-17",
+  "value" : 47959.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-18",
+  "value" : 49174.32,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-19",
+  "value" : 49189.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-20",
+  "value" : 49421.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-21",
+  "value" : 49570.27,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-22",
+  "value" : 49455.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-23",
+  "value" : 49455.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-24",
+  "value" : 49455.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-25",
+  "value" : 49527.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-26",
+  "value" : 49609.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-27",
+  "value" : 49602.60,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-28",
+  "value" : 49929.45,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-29",
+  "value" : 50292.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-11-30",
+  "value" : 50292.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-01",
+  "value" : 50292.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-02",
+  "value" : 49816.80,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-03",
+  "value" : 49512.28,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-04",
+  "value" : 49341.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-05",
+  "value" : 49346.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-06",
+  "value" : 49174.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-07",
+  "value" : 49174.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-08",
+  "value" : 49174.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-09",
+  "value" : 49320.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-10",
+  "value" : 49156.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-11",
+  "value" : 49371.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-12",
+  "value" : 49487.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-13",
+  "value" : 49683.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-14",
+  "value" : 49683.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-15",
+  "value" : 49683.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-16",
+  "value" : 50015.60,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-17",
+  "value" : 50199.18,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-18",
+  "value" : 50360.40,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-19",
+  "value" : 50229.62,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-20",
+  "value" : 50229.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-21",
+  "value" : 50229.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-22",
+  "value" : 50229.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-23",
+  "value" : 50125.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-24",
+  "value" : 50235.69,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-25",
+  "value" : 50235.69,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-26",
+  "value" : 50126.08,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-27",
+  "value" : 50078.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-28",
+  "value" : 50078.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-29",
+  "value" : 50078.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-30",
+  "value" : 50175.86,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2019-12-31",
+  "value" : 50195.21,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-01",
+  "value" : 50195.21,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-02",
+  "value" : 50275.45,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-03",
+  "value" : 50744.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-04",
+  "value" : 50744.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-05",
+  "value" : 50744.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-06",
+  "value" : 50867.61,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-07",
+  "value" : 51161.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-08",
+  "value" : 51222.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-09",
+  "value" : 51020.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-10",
+  "value" : 51080.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-11",
+  "value" : 51080.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-12",
+  "value" : 51080.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-13",
+  "value" : 51219.19,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-14",
+  "value" : 51517.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-15",
+  "value" : 51473.84,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-16",
+  "value" : 51439.38,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-17",
+  "value" : 51603.27,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-18",
+  "value" : 51603.27,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-19",
+  "value" : 51603.27,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-20",
+  "value" : 51692.70,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-21",
+  "value" : 51691.83,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-22",
+  "value" : 51381.22,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-23",
+  "value" : 51392.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-24",
+  "value" : 51179.05,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-25",
+  "value" : 51179.05,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-26",
+  "value" : 51179.05,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-27",
+  "value" : 51205.13,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-28",
+  "value" : 51226.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-29",
+  "value" : 51302.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-30",
+  "value" : 51193.74,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-01-31",
+  "value" : 51247.84,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-01",
+  "value" : 51247.84,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-02",
+  "value" : 51247.84,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-03",
+  "value" : 51138.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-04",
+  "value" : 50888.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-05",
+  "value" : 51027.08,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-06",
+  "value" : 51100.36,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-07",
+  "value" : 51254.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-08",
+  "value" : 51254.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-09",
+  "value" : 51254.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-10",
+  "value" : 51355.56,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-11",
+  "value" : 51480.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-12",
+  "value" : 51488.69,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-13",
+  "value" : 51499.65,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-14",
+  "value" : 51527.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-15",
+  "value" : 51527.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-16",
+  "value" : 51527.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-17",
+  "value" : 51418.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-18",
+  "value" : 51404.95,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-19",
+  "value" : 51200.53,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-20",
+  "value" : 51112.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-21",
+  "value" : 51006.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-22",
+  "value" : 51006.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-23",
+  "value" : 51006.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-24",
+  "value" : 50856.99,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-25",
+  "value" : 50457.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-26",
+  "value" : 50277.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-27",
+  "value" : 50116.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-28",
+  "value" : 49635.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-02-29",
+  "value" : 49635.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-01",
+  "value" : 49635.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-02",
+  "value" : 49294.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-03",
+  "value" : 49567.93,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-04",
+  "value" : 49635.99,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-05",
+  "value" : 50316.92,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-06",
+  "value" : 50450.42,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-07",
+  "value" : 50450.42,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-08",
+  "value" : 50450.42,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-09",
+  "value" : 50238.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-10",
+  "value" : 49545.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-11",
+  "value" : 49382.31,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-12",
+  "value" : 48898.68,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-13",
+  "value" : 47187.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-14",
+  "value" : 47187.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-15",
+  "value" : 47187.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-16",
+  "value" : 47210.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-17",
+  "value" : 46265.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-18",
+  "value" : 46280.83,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-19",
+  "value" : 44767.72,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-20",
+  "value" : 44075.73,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-21",
+  "value" : 44075.73,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-22",
+  "value" : 44075.73,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-23",
+  "value" : 43856.81,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-24",
+  "value" : 43093.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-25",
+  "value" : 43374.92,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-26",
+  "value" : 44289.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-27",
+  "value" : 45091.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-28",
+  "value" : 45091.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-29",
+  "value" : 45091.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-30",
+  "value" : 44868.55,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-03-31",
+  "value" : 44791.62,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-01",
+  "value" : 45194.19,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-02",
+  "value" : 45180.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-03",
+  "value" : 45386.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-04",
+  "value" : 45386.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-05",
+  "value" : 45386.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-06",
+  "value" : 45224.99,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-07",
+  "value" : 45699.42,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-08",
+  "value" : 45921.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-09",
+  "value" : 46453.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-10",
+  "value" : 46453.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-11",
+  "value" : 46453.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-12",
+  "value" : 46453.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-13",
+  "value" : 46768.32,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-14",
+  "value" : 46958.09,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-15",
+  "value" : 47265.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-16",
+  "value" : 47218.49,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-17",
+  "value" : 47080.15,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-18",
+  "value" : 47080.15,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-19",
+  "value" : 47080.15,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-20",
+  "value" : 47463.77,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-21",
+  "value" : 47433.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-22",
+  "value" : 47123.96,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-23",
+  "value" : 47258.09,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-24",
+  "value" : 47452.61,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-25",
+  "value" : 47452.61,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-26",
+  "value" : 47452.61,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-27",
+  "value" : 47384.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-28",
+  "value" : 47840.95,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-29",
+  "value" : 48019.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-04-30",
+  "value" : 48156.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-01",
+  "value" : 48156.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-02",
+  "value" : 48156.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-03",
+  "value" : 48156.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-04",
+  "value" : 48035.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-05",
+  "value" : 47760.07,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-06",
+  "value" : 47912.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-07",
+  "value" : 48057.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-08",
+  "value" : 48192.47,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-09",
+  "value" : 48192.47,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-10",
+  "value" : 48192.47,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-11",
+  "value" : 48268.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-12",
+  "value" : 48289.34,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-13",
+  "value" : 48298.46,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-14",
+  "value" : 48046.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-15",
+  "value" : 47965.24,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-16",
+  "value" : 47965.24,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-17",
+  "value" : 47965.24,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-18",
+  "value" : 48144.31,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-19",
+  "value" : 48728.76,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-20",
+  "value" : 48880.78,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-21",
+  "value" : 48880.78,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-22",
+  "value" : 48838.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-23",
+  "value" : 48838.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-24",
+  "value" : 48838.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-25",
+  "value" : 49033.94,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-26",
+  "value" : 49193.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-27",
+  "value" : 49249.48,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-28",
+  "value" : 49168.31,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-29",
+  "value" : 49420.45,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-30",
+  "value" : 49420.45,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-05-31",
+  "value" : 49420.45,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-01",
+  "value" : 49328.17,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-02",
+  "value" : 49389.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-03",
+  "value" : 49401.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-04",
+  "value" : 49351.10,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-05",
+  "value" : 49275.67,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-06",
+  "value" : 49275.67,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-07",
+  "value" : 49275.67,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-08",
+  "value" : 49273.88,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-09",
+  "value" : 49356.65,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-10",
+  "value" : 49441.93,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-11",
+  "value" : 49575.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-12",
+  "value" : 49305.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-13",
+  "value" : 49305.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-14",
+  "value" : 49305.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-15",
+  "value" : 49424.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-16",
+  "value" : 49415.19,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-17",
+  "value" : 49256.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-18",
+  "value" : 49814.53,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-19",
+  "value" : 50408.58,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-20",
+  "value" : 50408.58,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-21",
+  "value" : 50408.58,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-22",
+  "value" : 50933.94,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-23",
+  "value" : 50771.07,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-24",
+  "value" : 51005.31,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-25",
+  "value" : 50883.58,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-26",
+  "value" : 50786.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-27",
+  "value" : 50786.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-28",
+  "value" : 50786.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-29",
+  "value" : 50786.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-06-30",
+  "value" : 50654.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-01",
+  "value" : 50741.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-02",
+  "value" : 50842.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-03",
+  "value" : 50880.28,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-04",
+  "value" : 50880.28,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-05",
+  "value" : 50880.28,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-06",
+  "value" : 51049.89,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-07",
+  "value" : 51489.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-08",
+  "value" : 51407.78,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-09",
+  "value" : 51415.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-10",
+  "value" : 51040.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-11",
+  "value" : 51040.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-12",
+  "value" : 51040.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-13",
+  "value" : 51203.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-14",
+  "value" : 51176.17,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-15",
+  "value" : 51178.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-16",
+  "value" : 51178.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-17",
+  "value" : 50922.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-18",
+  "value" : 50922.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-19",
+  "value" : 50922.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-20",
+  "value" : 50701.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-21",
+  "value" : 50743.30,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-22",
+  "value" : 50829.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-23",
+  "value" : 50734.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-24",
+  "value" : 50864.22,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-25",
+  "value" : 50864.22,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-26",
+  "value" : 50864.22,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-27",
+  "value" : 50892.91,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-28",
+  "value" : 51003.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-29",
+  "value" : 51038.31,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-30",
+  "value" : 50879.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-07-31",
+  "value" : 50529.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-01",
+  "value" : 50529.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-02",
+  "value" : 50529.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-03",
+  "value" : 50684.53,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-04",
+  "value" : 50846.63,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-05",
+  "value" : 51184.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-06",
+  "value" : 51591.14,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-07",
+  "value" : 51576.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-08",
+  "value" : 51576.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-09",
+  "value" : 51576.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-10",
+  "value" : 51591.96,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-11",
+  "value" : 51927.48,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-12",
+  "value" : 51994.19,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-13",
+  "value" : 52044.92,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-14",
+  "value" : 52183.96,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-15",
+  "value" : 52183.96,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-16",
+  "value" : 52183.96,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-17",
+  "value" : 52247.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-18",
+  "value" : 52481.49,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-19",
+  "value" : 52314.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-20",
+  "value" : 51993.07,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-21",
+  "value" : 51911.67,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-22",
+  "value" : 51911.67,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-23",
+  "value" : 51911.67,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-24",
+  "value" : 52155.86,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-25",
+  "value" : 52293.02,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-26",
+  "value" : 52319.34,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-27",
+  "value" : 52519.32,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-28",
+  "value" : 52445.24,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-29",
+  "value" : 52445.24,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-30",
+  "value" : 52445.24,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-08-31",
+  "value" : 52402.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-01",
+  "value" : 52118.91,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-02",
+  "value" : 52155.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-03",
+  "value" : 52202.09,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-04",
+  "value" : 52061.89,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-05",
+  "value" : 52061.89,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-06",
+  "value" : 52061.89,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-07",
+  "value" : 51812.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-08",
+  "value" : 51803.84,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-09",
+  "value" : 51624.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-10",
+  "value" : 51417.03,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-11",
+  "value" : 51196.02,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-12",
+  "value" : 51196.02,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-13",
+  "value" : 51196.02,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-14",
+  "value" : 51210.74,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-15",
+  "value" : 51422.88,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-16",
+  "value" : 51372.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-17",
+  "value" : 51387.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-18",
+  "value" : 51387.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-19",
+  "value" : 51387.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-20",
+  "value" : 51387.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-21",
+  "value" : 51208.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-22",
+  "value" : 51002.81,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-23",
+  "value" : 50961.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-24",
+  "value" : 50892.07,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-25",
+  "value" : 50699.36,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-26",
+  "value" : 50699.36,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-27",
+  "value" : 50699.36,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-28",
+  "value" : 50612.86,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-29",
+  "value" : 50666.23,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-09-30",
+  "value" : 50572.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-01",
+  "value" : 50796.36,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-02",
+  "value" : 50871.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-03",
+  "value" : 50871.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-04",
+  "value" : 50871.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-05",
+  "value" : 51110.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-06",
+  "value" : 51387.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-07",
+  "value" : 51448.25,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-08",
+  "value" : 51386.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-09",
+  "value" : 51671.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-10",
+  "value" : 51671.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-11",
+  "value" : 51671.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-12",
+  "value" : 51671.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-13",
+  "value" : 52141.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-14",
+  "value" : 52148.11,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-15",
+  "value" : 52201.55,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-16",
+  "value" : 52033.65,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-17",
+  "value" : 52033.65,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-18",
+  "value" : 52033.65,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-19",
+  "value" : 51935.94,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-20",
+  "value" : 51778.12,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-21",
+  "value" : 51812.88,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-22",
+  "value" : 51833.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-23",
+  "value" : 51780.69,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-24",
+  "value" : 51780.69,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-25",
+  "value" : 51780.69,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-26",
+  "value" : 51723.03,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-27",
+  "value" : 51609.77,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-28",
+  "value" : 51337.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-29",
+  "value" : 51028.05,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-30",
+  "value" : 50857.30,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-10-31",
+  "value" : 50857.30,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-01",
+  "value" : 50857.30,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-02",
+  "value" : 50675.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-03",
+  "value" : 50731.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-04",
+  "value" : 50750.77,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-05",
+  "value" : 51034.86,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-06",
+  "value" : 51642.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-07",
+  "value" : 51642.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-08",
+  "value" : 51642.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-09",
+  "value" : 52077.45,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-10",
+  "value" : 52445.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-11",
+  "value" : 52361.00,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-12",
+  "value" : 52270.13,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-13",
+  "value" : 52220.77,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-14",
+  "value" : 52220.77,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-15",
+  "value" : 52220.77,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-16",
+  "value" : 52524.22,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-17",
+  "value" : 52906.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-18",
+  "value" : 52835.14,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-19",
+  "value" : 52666.21,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-20",
+  "value" : 52586.13,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-21",
+  "value" : 52586.13,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-22",
+  "value" : 52586.13,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-23",
+  "value" : 52808.15,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-24",
+  "value" : 53125.94,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-25",
+  "value" : 53506.19,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-26",
+  "value" : 53388.46,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-27",
+  "value" : 53262.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-28",
+  "value" : 53262.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-29",
+  "value" : 53262.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-11-30",
+  "value" : 53372.13,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-01",
+  "value" : 53041.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-02",
+  "value" : 53127.93,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-03",
+  "value" : 52982.80,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-04",
+  "value" : 53036.78,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-05",
+  "value" : 53036.78,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-06",
+  "value" : 53036.78,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-07",
+  "value" : 53021.68,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-08",
+  "value" : 53021.68,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-09",
+  "value" : 52818.56,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-10",
+  "value" : 52621.77,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-11",
+  "value" : 52599.38,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-12",
+  "value" : 52599.38,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-13",
+  "value" : 52599.38,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-14",
+  "value" : 52411.10,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-15",
+  "value" : 52400.29,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-16",
+  "value" : 52607.10,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-17",
+  "value" : 52875.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-18",
+  "value" : 52958.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-19",
+  "value" : 52958.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-20",
+  "value" : 52958.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-21",
+  "value" : 53021.91,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-22",
+  "value" : 53021.18,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-23",
+  "value" : 53012.96,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-24",
+  "value" : 52782.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-25",
+  "value" : 52782.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-26",
+  "value" : 52782.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-27",
+  "value" : 52782.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-28",
+  "value" : 52647.42,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-29",
+  "value" : 52765.32,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-30",
+  "value" : 52926.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2020-12-31",
+  "value" : 53185.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-01",
+  "value" : 53185.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-02",
+  "value" : 53185.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-03",
+  "value" : 53185.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-04",
+  "value" : 53267.60,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-05",
+  "value" : 53234.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-06",
+  "value" : 53403.63,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-07",
+  "value" : 53464.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-08",
+  "value" : 53932.46,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-09",
+  "value" : 53932.46,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-10",
+  "value" : 53932.46,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-11",
+  "value" : 54346.24,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-12",
+  "value" : 54295.49,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-13",
+  "value" : 54676.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-14",
+  "value" : 55199.55,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-15",
+  "value" : 55123.76,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-16",
+  "value" : 55123.76,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-17",
+  "value" : 55123.76,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-18",
+  "value" : 54989.31,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-19",
+  "value" : 55050.14,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-20",
+  "value" : 55210.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-21",
+  "value" : 55358.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-22",
+  "value" : 55003.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-23",
+  "value" : 55003.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-24",
+  "value" : 55003.01,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-25",
+  "value" : 55083.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-26",
+  "value" : 55485.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-27",
+  "value" : 55333.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-28",
+  "value" : 55199.84,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-29",
+  "value" : 55137.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-30",
+  "value" : 55137.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-01-31",
+  "value" : 55137.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-01",
+  "value" : 54640.36,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-02",
+  "value" : 54812.44,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-03",
+  "value" : 55385.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-04",
+  "value" : 55331.80,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-05",
+  "value" : 55575.70,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-06",
+  "value" : 55575.70,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-07",
+  "value" : 55575.70,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-08",
+  "value" : 55774.42,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-09",
+  "value" : 55925.33,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-10",
+  "value" : 56056.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-11",
+  "value" : 56151.91,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-12",
+  "value" : 56088.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-13",
+  "value" : 56088.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-14",
+  "value" : 56088.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-15",
+  "value" : 56214.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-16",
+  "value" : 56069.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-17",
+  "value" : 55971.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-18",
+  "value" : 55822.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-19",
+  "value" : 55254.25,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-20",
+  "value" : 55254.25,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-21",
+  "value" : 55254.25,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-22",
+  "value" : 55048.18,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-23",
+  "value" : 54588.18,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-24",
+  "value" : 54257.05,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-25",
+  "value" : 53956.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-26",
+  "value" : 53813.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-27",
+  "value" : 53813.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-02-28",
+  "value" : 53813.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-01",
+  "value" : 53769.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-02",
+  "value" : 54260.80,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-03",
+  "value" : 54535.38,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-04",
+  "value" : 54620.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-05",
+  "value" : 54131.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-06",
+  "value" : 54131.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-07",
+  "value" : 54131.39,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-08",
+  "value" : 53807.43,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-09",
+  "value" : 53539.75,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-10",
+  "value" : 53580.70,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-11",
+  "value" : 53752.06,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-12",
+  "value" : 53840.25,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-13",
+  "value" : 53840.25,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-14",
+  "value" : 53840.25,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-15",
+  "value" : 53667.51,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-16",
+  "value" : 53682.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-17",
+  "value" : 53864.44,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-18",
+  "value" : 54035.30,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-19",
+  "value" : 53700.73,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-20",
+  "value" : 53700.73,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-21",
+  "value" : 53700.73,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-22",
+  "value" : 53374.31,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-23",
+  "value" : 53322.24,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-24",
+  "value" : 53263.02,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-25",
+  "value" : 53052.44,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-26",
+  "value" : 53085.23,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-27",
+  "value" : 53085.23,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-28",
+  "value" : 53085.23,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-29",
+  "value" : 53190.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-30",
+  "value" : 53498.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-03-31",
+  "value" : 53383.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-01",
+  "value" : 53145.12,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-02",
+  "value" : 53145.12,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-03",
+  "value" : 53145.12,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-04",
+  "value" : 53145.12,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-05",
+  "value" : 53204.52,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-06",
+  "value" : 53434.79,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-07",
+  "value" : 53538.97,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-08",
+  "value" : 53383.17,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-09",
+  "value" : 53356.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-10",
+  "value" : 53356.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-11",
+  "value" : 53356.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-12",
+  "value" : 53344.54,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-13",
+  "value" : 53143.19,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-14",
+  "value" : 53078.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-15",
+  "value" : 53016.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-16",
+  "value" : 53079.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-17",
+  "value" : 53079.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-18",
+  "value" : 53079.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-19",
+  "value" : 53471.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-20",
+  "value" : 53383.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-21",
+  "value" : 53094.87,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-22",
+  "value" : 53030.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-23",
+  "value" : 53238.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-24",
+  "value" : 53238.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-25",
+  "value" : 53238.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-26",
+  "value" : 53626.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-27",
+  "value" : 53406.30,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-28",
+  "value" : 52960.05,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-29",
+  "value" : 52650.93,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-04-30",
+  "value" : 52611.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-01",
+  "value" : 52611.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-02",
+  "value" : 52611.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-03",
+  "value" : 52540.90,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-04",
+  "value" : 52437.59,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-05",
+  "value" : 52495.98,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-06",
+  "value" : 52703.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-07",
+  "value" : 52699.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-08",
+  "value" : 52699.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-09",
+  "value" : 52699.57,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-10",
+  "value" : 52711.14,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-11",
+  "value" : 52631.56,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-12",
+  "value" : 52594.81,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-13",
+  "value" : 52451.45,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-14",
+  "value" : 52499.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-15",
+  "value" : 52499.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-16",
+  "value" : 52499.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-17",
+  "value" : 52543.13,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-18",
+  "value" : 52528.23,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-19",
+  "value" : 52527.19,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-20",
+  "value" : 52264.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-21",
+  "value" : 52264.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-22",
+  "value" : 52264.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-23",
+  "value" : 52264.16,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-24",
+  "value" : 52382.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-25",
+  "value" : 52598.71,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-26",
+  "value" : 52805.38,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-27",
+  "value" : 52861.07,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-28",
+  "value" : 52913.23,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-29",
+  "value" : 52913.23,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-30",
+  "value" : 52913.23,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-05-31",
+  "value" : 53011.47,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-01",
+  "value" : 53171.86,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-02",
+  "value" : 53329.19,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-03",
+  "value" : 53309.27,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-04",
+  "value" : 52829.92,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-05",
+  "value" : 52829.92,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-06",
+  "value" : 52829.92,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-07",
+  "value" : 52568.65,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-08",
+  "value" : 52290.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-09",
+  "value" : 52292.02,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-10",
+  "value" : 52357.81,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-11",
+  "value" : 52654.86,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-12",
+  "value" : 52654.86,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-13",
+  "value" : 52654.86,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-14",
+  "value" : 52797.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-15",
+  "value" : 52837.04,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-16",
+  "value" : 52884.02,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-17",
+  "value" : 52819.85,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-18",
+  "value" : 52923.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-19",
+  "value" : 52923.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-20",
+  "value" : 52923.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-21",
+  "value" : 52923.20,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-22",
+  "value" : 53127.35,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-23",
+  "value" : 53293.93,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-24",
+  "value" : 52864.66,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-25",
+  "value" : 52876.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-26",
+  "value" : 52876.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-27",
+  "value" : 52876.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-28",
+  "value" : 52876.41,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-29",
+  "value" : 52874.92,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-06-30",
+  "value" : 52839.44,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-01",
+  "value" : 52258.18,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-02",
+  "value" : 52424.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-03",
+  "value" : 52424.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-04",
+  "value" : 52424.26,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-05",
+  "value" : 52158.72,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-06",
+  "value" : 51865.64,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-07",
+  "value" : 51963.45,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-08",
+  "value" : 52170.82,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-09",
+  "value" : 52171.55,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-10",
+  "value" : 52171.55,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-11",
+  "value" : 52171.55,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-12",
+  "value" : 52406.37,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-13",
+  "value" : 52416.32,
+  "symbol" : "UNO-C"
+}, {
+  "date" : "2021-07-14",
+  "value" : 52544.42,
+  "symbol" : "UNO-C"
+} ]

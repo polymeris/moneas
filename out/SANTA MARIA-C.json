@@ -1,0 +1,9129 @@
+[ {
+  "date" : "2002-01-01",
+  "value" : 10507.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-02",
+  "value" : 10514.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-03",
+  "value" : 10547.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-04",
+  "value" : 10528.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-05",
+  "value" : 10528.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-06",
+  "value" : 10528.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-07",
+  "value" : 10540.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-08",
+  "value" : 10572.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-09",
+  "value" : 10598.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-10",
+  "value" : 10616.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-11",
+  "value" : 10638.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-12",
+  "value" : 10638.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-13",
+  "value" : 10638.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-14",
+  "value" : 10650.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-15",
+  "value" : 10608.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-16",
+  "value" : 10570.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-17",
+  "value" : 10603.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-18",
+  "value" : 10568.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-19",
+  "value" : 10568.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-20",
+  "value" : 10568.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-21",
+  "value" : 10566.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-22",
+  "value" : 10562.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-23",
+  "value" : 10555.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-24",
+  "value" : 10560.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-25",
+  "value" : 10581.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-26",
+  "value" : 10581.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-27",
+  "value" : 10581.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-28",
+  "value" : 10578.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-29",
+  "value" : 10586.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-30",
+  "value" : 10602.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-01-31",
+  "value" : 10596.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-01",
+  "value" : 10592.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-02",
+  "value" : 10592.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-03",
+  "value" : 10592.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-04",
+  "value" : 10606.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-05",
+  "value" : 10641.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-06",
+  "value" : 10628.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-07",
+  "value" : 10618.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-08",
+  "value" : 10629.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-09",
+  "value" : 10629.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-10",
+  "value" : 10629.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-11",
+  "value" : 10615.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-12",
+  "value" : 10615.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-13",
+  "value" : 10609.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-14",
+  "value" : 10596.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-15",
+  "value" : 10608.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-16",
+  "value" : 10608.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-17",
+  "value" : 10608.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-18",
+  "value" : 10620.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-19",
+  "value" : 10612.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-20",
+  "value" : 10617.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-21",
+  "value" : 10603.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-22",
+  "value" : 10615.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-23",
+  "value" : 10615.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-24",
+  "value" : 10615.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-25",
+  "value" : 10618.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-26",
+  "value" : 10611.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-27",
+  "value" : 10615.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-02-28",
+  "value" : 10631.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-01",
+  "value" : 10636.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-02",
+  "value" : 10636.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-03",
+  "value" : 10636.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-04",
+  "value" : 10628.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-05",
+  "value" : 10621.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-06",
+  "value" : 10648.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-07",
+  "value" : 10676.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-08",
+  "value" : 10701.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-09",
+  "value" : 10701.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-10",
+  "value" : 10701.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-11",
+  "value" : 10695.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-12",
+  "value" : 10705.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-13",
+  "value" : 10714.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-14",
+  "value" : 10715.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-15",
+  "value" : 10711.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-16",
+  "value" : 10711.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-17",
+  "value" : 10711.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-18",
+  "value" : 10721.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-19",
+  "value" : 10735.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-20",
+  "value" : 10761.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-21",
+  "value" : 10774.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-22",
+  "value" : 10789.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-23",
+  "value" : 10789.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-24",
+  "value" : 10789.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-25",
+  "value" : 10806.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-26",
+  "value" : 10817.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-27",
+  "value" : 10798.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-28",
+  "value" : 10803.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-29",
+  "value" : 10803.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-30",
+  "value" : 10803.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-03-31",
+  "value" : 10803.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-01",
+  "value" : 10770.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-02",
+  "value" : 10782.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-03",
+  "value" : 10778.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-04",
+  "value" : 10798.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-05",
+  "value" : 10835.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-06",
+  "value" : 10835.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-07",
+  "value" : 10835.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-08",
+  "value" : 10771.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-09",
+  "value" : 10768.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-10",
+  "value" : 10761.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-11",
+  "value" : 10752.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-12",
+  "value" : 10762.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-13",
+  "value" : 10762.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-14",
+  "value" : 10762.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-15",
+  "value" : 10757.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-16",
+  "value" : 10763.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-17",
+  "value" : 10761.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-18",
+  "value" : 10774.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-19",
+  "value" : 10799.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-20",
+  "value" : 10799.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-21",
+  "value" : 10799.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-22",
+  "value" : 10796.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-23",
+  "value" : 10846.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-24",
+  "value" : 10846.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-25",
+  "value" : 10817.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-26",
+  "value" : 10811.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-27",
+  "value" : 10811.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-28",
+  "value" : 10811.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-29",
+  "value" : 10806.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-04-30",
+  "value" : 10789.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-01",
+  "value" : 10789.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-02",
+  "value" : 10779.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-03",
+  "value" : 10790.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-04",
+  "value" : 10790.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-05",
+  "value" : 10790.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-06",
+  "value" : 10820.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-07",
+  "value" : 10816.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-08",
+  "value" : 10810.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-09",
+  "value" : 10800.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-10",
+  "value" : 10825.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-11",
+  "value" : 10825.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-12",
+  "value" : 10825.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-13",
+  "value" : 10846.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-14",
+  "value" : 10824.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-15",
+  "value" : 10828.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-16",
+  "value" : 10838.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-17",
+  "value" : 10835.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-18",
+  "value" : 10835.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-19",
+  "value" : 10835.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-20",
+  "value" : 10840.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-21",
+  "value" : 10840.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-22",
+  "value" : 10840.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-23",
+  "value" : 10848.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-24",
+  "value" : 10835.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-25",
+  "value" : 10835.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-26",
+  "value" : 10835.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-27",
+  "value" : 10835.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-28",
+  "value" : 10836.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-29",
+  "value" : 10824.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-30",
+  "value" : 10830.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-05-31",
+  "value" : 10830.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-01",
+  "value" : 10830.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-02",
+  "value" : 10830.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-03",
+  "value" : 10851.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-04",
+  "value" : 10846.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-05",
+  "value" : 10849.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-06",
+  "value" : 10822.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-07",
+  "value" : 10836.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-08",
+  "value" : 10836.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-09",
+  "value" : 10836.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-10",
+  "value" : 10818.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-11",
+  "value" : 10809.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-12",
+  "value" : 10832.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-13",
+  "value" : 10813.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-14",
+  "value" : 10823.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-15",
+  "value" : 10823.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-16",
+  "value" : 10823.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-17",
+  "value" : 10830.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-18",
+  "value" : 10775.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-19",
+  "value" : 10793.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-20",
+  "value" : 10834.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-21",
+  "value" : 10835.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-22",
+  "value" : 10835.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-23",
+  "value" : 10835.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-24",
+  "value" : 10842.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-25",
+  "value" : 10864.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-26",
+  "value" : 10811.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-27",
+  "value" : 10840.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-28",
+  "value" : 10807.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-29",
+  "value" : 10807.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-06-30",
+  "value" : 10807.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-01",
+  "value" : 10787.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-02",
+  "value" : 10828.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-03",
+  "value" : 10881.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-04",
+  "value" : 10807.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-05",
+  "value" : 10766.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-06",
+  "value" : 10766.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-07",
+  "value" : 10766.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-08",
+  "value" : 10791.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-09",
+  "value" : 10836.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-10",
+  "value" : 10840.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-11",
+  "value" : 10841.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-12",
+  "value" : 10857.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-13",
+  "value" : 10857.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-14",
+  "value" : 10857.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-15",
+  "value" : 10786.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-16",
+  "value" : 10810.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-17",
+  "value" : 10807.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-18",
+  "value" : 10794.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-19",
+  "value" : 10808.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-20",
+  "value" : 10808.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-21",
+  "value" : 10808.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-22",
+  "value" : 10802.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-23",
+  "value" : 10739.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-24",
+  "value" : 10765.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-25",
+  "value" : 10733.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-26",
+  "value" : 10734.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-27",
+  "value" : 10734.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-28",
+  "value" : 10734.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-29",
+  "value" : 10740.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-30",
+  "value" : 10707.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-07-31",
+  "value" : 10775.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-01",
+  "value" : 10771.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-02",
+  "value" : 10794.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-03",
+  "value" : 10794.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-04",
+  "value" : 10794.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-05",
+  "value" : 10796.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-06",
+  "value" : 10797.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-07",
+  "value" : 10802.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-08",
+  "value" : 10795.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-09",
+  "value" : 10817.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-10",
+  "value" : 10817.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-11",
+  "value" : 10817.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-12",
+  "value" : 10861.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-13",
+  "value" : 10903.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-14",
+  "value" : 10884.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-15",
+  "value" : 10884.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-16",
+  "value" : 10901.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-17",
+  "value" : 10901.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-18",
+  "value" : 10901.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-19",
+  "value" : 10916.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-20",
+  "value" : 10934.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-21",
+  "value" : 10950.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-22",
+  "value" : 10971.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-23",
+  "value" : 11001.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-24",
+  "value" : 11001.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-25",
+  "value" : 11001.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-26",
+  "value" : 11025.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-27",
+  "value" : 11009.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-28",
+  "value" : 11016.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-29",
+  "value" : 11050.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-30",
+  "value" : 11039.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-08-31",
+  "value" : 11039.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-01",
+  "value" : 11039.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-02",
+  "value" : 11020.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-03",
+  "value" : 11028.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-04",
+  "value" : 11085.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-05",
+  "value" : 11079.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-06",
+  "value" : 11074.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-07",
+  "value" : 11074.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-08",
+  "value" : 11074.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-09",
+  "value" : 11062.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-10",
+  "value" : 11060.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-11",
+  "value" : 11071.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-12",
+  "value" : 11092.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-13",
+  "value" : 11126.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-14",
+  "value" : 11126.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-15",
+  "value" : 11126.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-16",
+  "value" : 11138.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-17",
+  "value" : 11121.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-18",
+  "value" : 11121.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-19",
+  "value" : 11121.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-20",
+  "value" : 11126.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-21",
+  "value" : 11126.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-22",
+  "value" : 11126.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-23",
+  "value" : 11116.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-24",
+  "value" : 11107.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-25",
+  "value" : 11056.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-26",
+  "value" : 11049.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-27",
+  "value" : 11066.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-28",
+  "value" : 11066.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-29",
+  "value" : 11066.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-09-30",
+  "value" : 11088.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-01",
+  "value" : 11042.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-02",
+  "value" : 11010.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-03",
+  "value" : 11038.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-04",
+  "value" : 11044.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-05",
+  "value" : 11044.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-06",
+  "value" : 11044.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-07",
+  "value" : 11038.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-08",
+  "value" : 11047.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-09",
+  "value" : 11030.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-10",
+  "value" : 11029.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-11",
+  "value" : 11010.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-12",
+  "value" : 11010.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-13",
+  "value" : 11010.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-14",
+  "value" : 10982.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-15",
+  "value" : 11031.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-16",
+  "value" : 11025.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-17",
+  "value" : 11051.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-18",
+  "value" : 11040.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-19",
+  "value" : 11040.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-20",
+  "value" : 11040.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-21",
+  "value" : 11063.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-22",
+  "value" : 11051.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-23",
+  "value" : 11034.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-24",
+  "value" : 11028.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-25",
+  "value" : 11046.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-26",
+  "value" : 11046.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-27",
+  "value" : 11046.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-28",
+  "value" : 11036.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-29",
+  "value" : 11046.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-30",
+  "value" : 11066.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-10-31",
+  "value" : 11067.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-01",
+  "value" : 11067.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-02",
+  "value" : 11067.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-03",
+  "value" : 11067.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-04",
+  "value" : 11076.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-05",
+  "value" : 11097.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-06",
+  "value" : 11134.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-07",
+  "value" : 11135.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-08",
+  "value" : 11132.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-09",
+  "value" : 11132.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-10",
+  "value" : 11132.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-11",
+  "value" : 11107.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-12",
+  "value" : 11098.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-13",
+  "value" : 11082.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-14",
+  "value" : 11090.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-15",
+  "value" : 11079.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-16",
+  "value" : 11079.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-17",
+  "value" : 11079.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-18",
+  "value" : 11115.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-19",
+  "value" : 11109.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-20",
+  "value" : 11098.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-21",
+  "value" : 11095.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-22",
+  "value" : 11090.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-23",
+  "value" : 11090.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-24",
+  "value" : 11090.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-25",
+  "value" : 11138.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-26",
+  "value" : 11135.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-27",
+  "value" : 11126.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-28",
+  "value" : 11086.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-29",
+  "value" : 11079.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-11-30",
+  "value" : 11079.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-01",
+  "value" : 11079.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-02",
+  "value" : 11088.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-03",
+  "value" : 11086.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-04",
+  "value" : 11131.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-05",
+  "value" : 11161.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-06",
+  "value" : 11139.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-07",
+  "value" : 11139.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-08",
+  "value" : 11139.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-09",
+  "value" : 11130.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-10",
+  "value" : 11151.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-11",
+  "value" : 11122.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-12",
+  "value" : 11094.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-13",
+  "value" : 11091.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-14",
+  "value" : 11091.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-15",
+  "value" : 11091.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-16",
+  "value" : 11126.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-17",
+  "value" : 11103.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-18",
+  "value" : 11109.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-19",
+  "value" : 11135.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-20",
+  "value" : 11148.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-21",
+  "value" : 11148.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-22",
+  "value" : 11148.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-23",
+  "value" : 11133.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-24",
+  "value" : 11167.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-25",
+  "value" : 11167.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-26",
+  "value" : 11178.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-27",
+  "value" : 11204.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-28",
+  "value" : 11204.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-29",
+  "value" : 11204.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-30",
+  "value" : 11191.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2002-12-31",
+  "value" : 11204.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-01",
+  "value" : 11204.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-02",
+  "value" : 11228.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-03",
+  "value" : 11228.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-04",
+  "value" : 11228.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-05",
+  "value" : 11228.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-06",
+  "value" : 11222.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-07",
+  "value" : 11229.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-08",
+  "value" : 11271.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-09",
+  "value" : 11252.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-10",
+  "value" : 11262.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-11",
+  "value" : 11262.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-12",
+  "value" : 11262.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-13",
+  "value" : 11285.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-14",
+  "value" : 11296.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-15",
+  "value" : 11332.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-16",
+  "value" : 11339.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-17",
+  "value" : 11347.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-18",
+  "value" : 11347.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-19",
+  "value" : 11347.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-20",
+  "value" : 11362.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-21",
+  "value" : 11345.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-22",
+  "value" : 11353.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-23",
+  "value" : 11357.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-24",
+  "value" : 11327.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-25",
+  "value" : 11327.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-26",
+  "value" : 11327.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-27",
+  "value" : 11354.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-28",
+  "value" : 11339.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-29",
+  "value" : 11296.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-30",
+  "value" : 11299.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-01-31",
+  "value" : 11270.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-01",
+  "value" : 11270.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-02",
+  "value" : 11270.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-03",
+  "value" : 11293.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-04",
+  "value" : 11296.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-05",
+  "value" : 11353.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-06",
+  "value" : 11355.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-07",
+  "value" : 11353.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-08",
+  "value" : 11353.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-09",
+  "value" : 11353.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-10",
+  "value" : 11330.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-11",
+  "value" : 11338.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-12",
+  "value" : 11340.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-13",
+  "value" : 11357.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-14",
+  "value" : 11330.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-15",
+  "value" : 11330.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-16",
+  "value" : 11330.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-17",
+  "value" : 11319.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-18",
+  "value" : 11302.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-19",
+  "value" : 11337.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-20",
+  "value" : 11368.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-21",
+  "value" : 11358.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-22",
+  "value" : 11358.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-23",
+  "value" : 11358.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-24",
+  "value" : 11374.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-25",
+  "value" : 11396.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-26",
+  "value" : 11393.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-27",
+  "value" : 11382.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-02-28",
+  "value" : 11388.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-01",
+  "value" : 11388.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-02",
+  "value" : 11388.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-03",
+  "value" : 11384.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-04",
+  "value" : 11401.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-05",
+  "value" : 11454.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-06",
+  "value" : 11462.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-07",
+  "value" : 11461.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-08",
+  "value" : 11461.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-09",
+  "value" : 11461.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-10",
+  "value" : 11477.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-11",
+  "value" : 11475.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-12",
+  "value" : 11407.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-13",
+  "value" : 11420.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-14",
+  "value" : 11393.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-15",
+  "value" : 11393.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-16",
+  "value" : 11393.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-17",
+  "value" : 11388.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-18",
+  "value" : 11413.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-19",
+  "value" : 11405.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-20",
+  "value" : 11434.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-21",
+  "value" : 11449.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-22",
+  "value" : 11449.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-23",
+  "value" : 11449.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-24",
+  "value" : 11425.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-25",
+  "value" : 11446.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-26",
+  "value" : 11405.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-27",
+  "value" : 11417.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-28",
+  "value" : 11433.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-29",
+  "value" : 11433.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-30",
+  "value" : 11433.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-03-31",
+  "value" : 11424.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-01",
+  "value" : 11447.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-02",
+  "value" : 11430.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-03",
+  "value" : 11392.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-04",
+  "value" : 11440.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-05",
+  "value" : 11440.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-06",
+  "value" : 11440.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-07",
+  "value" : 11452.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-08",
+  "value" : 11442.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-09",
+  "value" : 11472.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-10",
+  "value" : 11481.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-11",
+  "value" : 11506.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-12",
+  "value" : 11506.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-13",
+  "value" : 11506.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-14",
+  "value" : 11512.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-15",
+  "value" : 11528.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-16",
+  "value" : 11529.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-17",
+  "value" : 11552.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-18",
+  "value" : 11552.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-19",
+  "value" : 11552.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-20",
+  "value" : 11552.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-21",
+  "value" : 11563.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-22",
+  "value" : 11579.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-23",
+  "value" : 11592.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-24",
+  "value" : 11596.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-25",
+  "value" : 11638.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-26",
+  "value" : 11638.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-27",
+  "value" : 11638.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-28",
+  "value" : 11661.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-29",
+  "value" : 11658.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-04-30",
+  "value" : 11656.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-01",
+  "value" : 11656.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-02",
+  "value" : 11694.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-03",
+  "value" : 11694.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-04",
+  "value" : 11694.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-05",
+  "value" : 11722.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-06",
+  "value" : 11752.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-07",
+  "value" : 11774.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-08",
+  "value" : 11753.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-09",
+  "value" : 11776.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-10",
+  "value" : 11776.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-11",
+  "value" : 11776.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-12",
+  "value" : 11765.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-13",
+  "value" : 11785.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-14",
+  "value" : 11815.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-15",
+  "value" : 11841.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-16",
+  "value" : 11868.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-17",
+  "value" : 11868.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-18",
+  "value" : 11868.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-19",
+  "value" : 11874.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-20",
+  "value" : 11855.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-21",
+  "value" : 11855.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-22",
+  "value" : 11835.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-23",
+  "value" : 11820.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-24",
+  "value" : 11820.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-25",
+  "value" : 11820.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-26",
+  "value" : 11854.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-27",
+  "value" : 11877.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-28",
+  "value" : 11890.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-29",
+  "value" : 11920.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-30",
+  "value" : 11939.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-05-31",
+  "value" : 11939.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-01",
+  "value" : 11939.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-02",
+  "value" : 11954.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-03",
+  "value" : 11954.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-04",
+  "value" : 11985.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-05",
+  "value" : 11969.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-06",
+  "value" : 12025.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-07",
+  "value" : 12025.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-08",
+  "value" : 12025.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-09",
+  "value" : 12014.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-10",
+  "value" : 12066.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-11",
+  "value" : 12068.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-12",
+  "value" : 12073.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-13",
+  "value" : 12053.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-14",
+  "value" : 12053.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-15",
+  "value" : 12053.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-16",
+  "value" : 12053.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-17",
+  "value" : 12085.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-18",
+  "value" : 12085.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-19",
+  "value" : 12089.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-20",
+  "value" : 12075.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-21",
+  "value" : 12075.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-22",
+  "value" : 12075.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-23",
+  "value" : 12046.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-24",
+  "value" : 12034.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-25",
+  "value" : 11987.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-26",
+  "value" : 11987.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-27",
+  "value" : 11978.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-28",
+  "value" : 11978.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-29",
+  "value" : 11978.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-06-30",
+  "value" : 11950.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-01",
+  "value" : 11963.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-02",
+  "value" : 11963.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-03",
+  "value" : 11994.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-04",
+  "value" : 12022.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-05",
+  "value" : 12022.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-06",
+  "value" : 12022.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-07",
+  "value" : 12020.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-08",
+  "value" : 12028.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-09",
+  "value" : 12071.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-10",
+  "value" : 12063.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-11",
+  "value" : 12065.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-12",
+  "value" : 12065.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-13",
+  "value" : 12065.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-14",
+  "value" : 12060.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-15",
+  "value" : 12073.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-16",
+  "value" : 12070.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-17",
+  "value" : 12063.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-18",
+  "value" : 12047.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-19",
+  "value" : 12047.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-20",
+  "value" : 12047.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-21",
+  "value" : 12048.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-22",
+  "value" : 12053.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-23",
+  "value" : 12058.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-24",
+  "value" : 12119.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-25",
+  "value" : 12120.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-26",
+  "value" : 12120.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-27",
+  "value" : 12120.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-28",
+  "value" : 12153.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-29",
+  "value" : 12151.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-30",
+  "value" : 12186.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-07-31",
+  "value" : 12173.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-01",
+  "value" : 12176.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-02",
+  "value" : 12176.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-03",
+  "value" : 12176.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-04",
+  "value" : 12203.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-05",
+  "value" : 12239.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-06",
+  "value" : 12212.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-07",
+  "value" : 12165.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-08",
+  "value" : 12159.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-09",
+  "value" : 12159.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-10",
+  "value" : 12159.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-11",
+  "value" : 12164.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-12",
+  "value" : 12200.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-13",
+  "value" : 12236.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-14",
+  "value" : 12272.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-15",
+  "value" : 12272.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-16",
+  "value" : 12272.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-17",
+  "value" : 12272.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-18",
+  "value" : 12275.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-19",
+  "value" : 12305.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-20",
+  "value" : 12341.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-21",
+  "value" : 12341.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-22",
+  "value" : 12330.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-23",
+  "value" : 12330.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-24",
+  "value" : 12330.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-25",
+  "value" : 12315.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-26",
+  "value" : 12297.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-27",
+  "value" : 12265.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-28",
+  "value" : 12275.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-29",
+  "value" : 12286.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-30",
+  "value" : 12286.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-08-31",
+  "value" : 12286.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-01",
+  "value" : 12324.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-02",
+  "value" : 12339.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-03",
+  "value" : 12320.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-04",
+  "value" : 12312.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-05",
+  "value" : 12285.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-06",
+  "value" : 12285.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-07",
+  "value" : 12285.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-08",
+  "value" : 12297.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-09",
+  "value" : 12317.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-10",
+  "value" : 12351.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-11",
+  "value" : 12323.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-12",
+  "value" : 12286.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-13",
+  "value" : 12286.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-14",
+  "value" : 12286.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-15",
+  "value" : 12281.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-16",
+  "value" : 12268.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-17",
+  "value" : 12248.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-18",
+  "value" : 12248.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-19",
+  "value" : 12248.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-20",
+  "value" : 12248.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-21",
+  "value" : 12248.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-22",
+  "value" : 12285.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-23",
+  "value" : 12273.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-24",
+  "value" : 12247.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-25",
+  "value" : 12304.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-26",
+  "value" : 12306.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-27",
+  "value" : 12306.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-28",
+  "value" : 12306.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-29",
+  "value" : 12345.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-09-30",
+  "value" : 12353.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-01",
+  "value" : 12336.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-02",
+  "value" : 12358.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-03",
+  "value" : 12421.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-04",
+  "value" : 12421.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-05",
+  "value" : 12421.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-06",
+  "value" : 12422.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-07",
+  "value" : 12468.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-08",
+  "value" : 12446.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-09",
+  "value" : 12428.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-10",
+  "value" : 12458.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-11",
+  "value" : 12458.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-12",
+  "value" : 12458.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-13",
+  "value" : 12493.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-14",
+  "value" : 12526.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-15",
+  "value" : 12565.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-16",
+  "value" : 12627.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-17",
+  "value" : 12607.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-18",
+  "value" : 12607.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-19",
+  "value" : 12607.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-20",
+  "value" : 12649.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-21",
+  "value" : 12632.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-22",
+  "value" : 12654.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-23",
+  "value" : 12655.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-24",
+  "value" : 12584.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-25",
+  "value" : 12584.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-26",
+  "value" : 12584.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-27",
+  "value" : 12561.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-28",
+  "value" : 12569.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-29",
+  "value" : 12565.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-30",
+  "value" : 12580.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-10-31",
+  "value" : 12526.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-01",
+  "value" : 12526.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-02",
+  "value" : 12526.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-03",
+  "value" : 12515.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-04",
+  "value" : 12491.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-05",
+  "value" : 12490.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-06",
+  "value" : 12457.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-07",
+  "value" : 12425.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-08",
+  "value" : 12425.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-09",
+  "value" : 12425.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-10",
+  "value" : 12369.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-11",
+  "value" : 12343.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-12",
+  "value" : 12363.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-13",
+  "value" : 12391.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-14",
+  "value" : 12430.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-15",
+  "value" : 12430.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-16",
+  "value" : 12430.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-17",
+  "value" : 12447.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-18",
+  "value" : 12430.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-19",
+  "value" : 12440.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-20",
+  "value" : 12423.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-21",
+  "value" : 12377.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-22",
+  "value" : 12377.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-23",
+  "value" : 12377.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-24",
+  "value" : 12354.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-25",
+  "value" : 12341.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-26",
+  "value" : 12358.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-27",
+  "value" : 12396.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-28",
+  "value" : 12396.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-29",
+  "value" : 12396.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-11-30",
+  "value" : 12396.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-01",
+  "value" : 12406.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-02",
+  "value" : 12428.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-03",
+  "value" : 12461.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-04",
+  "value" : 12418.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-05",
+  "value" : 12435.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-06",
+  "value" : 12435.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-07",
+  "value" : 12435.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-08",
+  "value" : 12435.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-09",
+  "value" : 12463.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-10",
+  "value" : 12439.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-11",
+  "value" : 12434.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-12",
+  "value" : 12402.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-13",
+  "value" : 12402.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-14",
+  "value" : 12402.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-15",
+  "value" : 12426.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-16",
+  "value" : 12437.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-17",
+  "value" : 12448.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-18",
+  "value" : 12425.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-19",
+  "value" : 12404.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-20",
+  "value" : 12404.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-21",
+  "value" : 12404.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-22",
+  "value" : 12402.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-23",
+  "value" : 12417.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-24",
+  "value" : 12448.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-25",
+  "value" : 12448.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-26",
+  "value" : 12453.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-27",
+  "value" : 12453.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-28",
+  "value" : 12453.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-29",
+  "value" : 12452.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-30",
+  "value" : 12513.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2003-12-31",
+  "value" : 12512.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-01",
+  "value" : 12512.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-02",
+  "value" : 12497.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-03",
+  "value" : 12497.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-04",
+  "value" : 12497.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-05",
+  "value" : 12489.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-06",
+  "value" : 12486.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-07",
+  "value" : 12455.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-08",
+  "value" : 12485.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-09",
+  "value" : 12490.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-10",
+  "value" : 12490.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-11",
+  "value" : 12490.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-12",
+  "value" : 12488.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-13",
+  "value" : 12509.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-14",
+  "value" : 12541.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-15",
+  "value" : 12572.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-16",
+  "value" : 12534.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-17",
+  "value" : 12534.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-18",
+  "value" : 12534.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-19",
+  "value" : 12571.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-20",
+  "value" : 12523.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-21",
+  "value" : 12522.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-22",
+  "value" : 12532.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-23",
+  "value" : 12562.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-24",
+  "value" : 12562.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-25",
+  "value" : 12562.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-26",
+  "value" : 12607.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-27",
+  "value" : 12615.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-28",
+  "value" : 12598.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-29",
+  "value" : 12640.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-30",
+  "value" : 12656.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-01-31",
+  "value" : 12656.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-01",
+  "value" : 12656.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-02",
+  "value" : 12567.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-03",
+  "value" : 12478.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-04",
+  "value" : 12556.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-05",
+  "value" : 12580.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-06",
+  "value" : 12601.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-07",
+  "value" : 12601.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-08",
+  "value" : 12601.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-09",
+  "value" : 12620.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-10",
+  "value" : 12570.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-11",
+  "value" : 12602.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-12",
+  "value" : 12632.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-13",
+  "value" : 12613.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-14",
+  "value" : 12613.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-15",
+  "value" : 12613.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-16",
+  "value" : 12630.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-17",
+  "value" : 12675.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-18",
+  "value" : 12652.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-19",
+  "value" : 12712.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-20",
+  "value" : 12797.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-21",
+  "value" : 12797.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-22",
+  "value" : 12797.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-23",
+  "value" : 12769.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-24",
+  "value" : 12780.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-25",
+  "value" : 12817.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-26",
+  "value" : 12761.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-27",
+  "value" : 12819.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-28",
+  "value" : 12819.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-02-29",
+  "value" : 12819.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-01",
+  "value" : 12816.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-02",
+  "value" : 12820.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-03",
+  "value" : 12868.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-04",
+  "value" : 12934.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-05",
+  "value" : 12927.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-06",
+  "value" : 12927.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-07",
+  "value" : 12927.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-08",
+  "value" : 12877.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-09",
+  "value" : 12871.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-10",
+  "value" : 12866.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-11",
+  "value" : 12905.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-12",
+  "value" : 12847.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-13",
+  "value" : 12847.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-14",
+  "value" : 12847.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-15",
+  "value" : 12807.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-16",
+  "value" : 12821.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-17",
+  "value" : 12803.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-18",
+  "value" : 12827.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-19",
+  "value" : 12822.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-20",
+  "value" : 12822.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-21",
+  "value" : 12822.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-22",
+  "value" : 12850.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-23",
+  "value" : 12817.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-24",
+  "value" : 12781.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-25",
+  "value" : 12779.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-26",
+  "value" : 12765.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-27",
+  "value" : 12765.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-28",
+  "value" : 12765.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-29",
+  "value" : 12823.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-30",
+  "value" : 12841.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-03-31",
+  "value" : 12901.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-01",
+  "value" : 12884.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-02",
+  "value" : 12889.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-03",
+  "value" : 12889.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-04",
+  "value" : 12889.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-05",
+  "value" : 12912.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-06",
+  "value" : 12936.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-07",
+  "value" : 12965.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-08",
+  "value" : 12986.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-09",
+  "value" : 12986.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-10",
+  "value" : 12986.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-11",
+  "value" : 12986.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-12",
+  "value" : 12930.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-13",
+  "value" : 12933.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-14",
+  "value" : 12899.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-15",
+  "value" : 12924.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-16",
+  "value" : 12863.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-17",
+  "value" : 12863.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-18",
+  "value" : 12863.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-19",
+  "value" : 12829.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-20",
+  "value" : 12819.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-21",
+  "value" : 12819.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-22",
+  "value" : 12820.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-23",
+  "value" : 12841.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-24",
+  "value" : 12841.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-25",
+  "value" : 12841.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-26",
+  "value" : 12855.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-27",
+  "value" : 12867.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-28",
+  "value" : 12906.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-29",
+  "value" : 12921.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-04-30",
+  "value" : 12882.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-01",
+  "value" : 12882.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-02",
+  "value" : 12882.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-03",
+  "value" : 12827.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-04",
+  "value" : 12794.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-05",
+  "value" : 12803.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-06",
+  "value" : 12861.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-07",
+  "value" : 12892.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-08",
+  "value" : 12892.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-09",
+  "value" : 12892.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-10",
+  "value" : 12858.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-11",
+  "value" : 12804.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-12",
+  "value" : 12681.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-13",
+  "value" : 12741.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-14",
+  "value" : 12728.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-15",
+  "value" : 12728.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-16",
+  "value" : 12728.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-17",
+  "value" : 12691.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-18",
+  "value" : 12722.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-19",
+  "value" : 12655.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-20",
+  "value" : 12693.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-21",
+  "value" : 12693.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-22",
+  "value" : 12693.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-23",
+  "value" : 12693.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-24",
+  "value" : 12782.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-25",
+  "value" : 12748.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-26",
+  "value" : 12768.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-27",
+  "value" : 12809.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-28",
+  "value" : 12840.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-29",
+  "value" : 12840.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-30",
+  "value" : 12840.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-05-31",
+  "value" : 12860.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-01",
+  "value" : 12901.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-02",
+  "value" : 12925.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-03",
+  "value" : 12889.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-04",
+  "value" : 12892.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-05",
+  "value" : 12892.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-06",
+  "value" : 12892.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-07",
+  "value" : 12892.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-08",
+  "value" : 12884.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-09",
+  "value" : 12907.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-10",
+  "value" : 12941.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-11",
+  "value" : 12955.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-12",
+  "value" : 12955.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-13",
+  "value" : 12955.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-14",
+  "value" : 12937.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-15",
+  "value" : 12920.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-16",
+  "value" : 12901.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-17",
+  "value" : 12918.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-18",
+  "value" : 12944.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-19",
+  "value" : 12944.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-20",
+  "value" : 12944.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-21",
+  "value" : 12972.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-22",
+  "value" : 12980.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-23",
+  "value" : 12952.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-24",
+  "value" : 12943.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-25",
+  "value" : 12956.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-26",
+  "value" : 12956.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-27",
+  "value" : 12956.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-28",
+  "value" : 12956.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-29",
+  "value" : 13001.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-06-30",
+  "value" : 12996.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-01",
+  "value" : 12997.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-02",
+  "value" : 12999.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-03",
+  "value" : 12999.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-04",
+  "value" : 12999.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-05",
+  "value" : 13006.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-06",
+  "value" : 13003.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-07",
+  "value" : 13024.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-08",
+  "value" : 13023.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-09",
+  "value" : 13033.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-10",
+  "value" : 13033.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-11",
+  "value" : 13033.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-12",
+  "value" : 13052.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-13",
+  "value" : 13049.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-14",
+  "value" : 13061.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-15",
+  "value" : 13046.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-16",
+  "value" : 13034.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-17",
+  "value" : 13034.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-18",
+  "value" : 13034.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-19",
+  "value" : 13013.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-20",
+  "value" : 13051.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-21",
+  "value" : 13043.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-22",
+  "value" : 13074.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-23",
+  "value" : 13056.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-24",
+  "value" : 13056.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-25",
+  "value" : 13056.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-26",
+  "value" : 13043.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-27",
+  "value" : 13075.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-28",
+  "value" : 13077.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-29",
+  "value" : 13067.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-30",
+  "value" : 13066.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-07-31",
+  "value" : 13066.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-01",
+  "value" : 13066.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-02",
+  "value" : 13112.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-03",
+  "value" : 13135.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-04",
+  "value" : 13126.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-05",
+  "value" : 13127.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-06",
+  "value" : 13117.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-07",
+  "value" : 13117.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-08",
+  "value" : 13117.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-09",
+  "value" : 13123.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-10",
+  "value" : 13109.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-11",
+  "value" : 13105.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-12",
+  "value" : 13139.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-13",
+  "value" : 13146.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-14",
+  "value" : 13146.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-15",
+  "value" : 13146.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-16",
+  "value" : 13138.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-17",
+  "value" : 13134.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-18",
+  "value" : 13157.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-19",
+  "value" : 13221.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-20",
+  "value" : 13231.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-21",
+  "value" : 13231.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-22",
+  "value" : 13231.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-23",
+  "value" : 13273.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-24",
+  "value" : 13265.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-25",
+  "value" : 13236.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-26",
+  "value" : 13278.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-27",
+  "value" : 13290.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-28",
+  "value" : 13290.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-29",
+  "value" : 13290.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-30",
+  "value" : 13288.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-08-31",
+  "value" : 13345.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-01",
+  "value" : 13312.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-02",
+  "value" : 13341.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-03",
+  "value" : 13348.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-04",
+  "value" : 13348.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-05",
+  "value" : 13348.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-06",
+  "value" : 13346.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-07",
+  "value" : 13316.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-08",
+  "value" : 13322.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-09",
+  "value" : 13304.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-10",
+  "value" : 13287.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-11",
+  "value" : 13287.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-12",
+  "value" : 13287.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-13",
+  "value" : 13299.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-14",
+  "value" : 13288.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-15",
+  "value" : 13329.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-16",
+  "value" : 13356.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-17",
+  "value" : 13356.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-18",
+  "value" : 13356.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-19",
+  "value" : 13356.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-20",
+  "value" : 13350.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-21",
+  "value" : 13363.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-22",
+  "value" : 13414.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-23",
+  "value" : 13433.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-24",
+  "value" : 13413.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-25",
+  "value" : 13413.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-26",
+  "value" : 13413.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-27",
+  "value" : 13410.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-28",
+  "value" : 13414.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-29",
+  "value" : 13375.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-09-30",
+  "value" : 13404.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-01",
+  "value" : 13451.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-02",
+  "value" : 13451.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-03",
+  "value" : 13451.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-04",
+  "value" : 13469.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-05",
+  "value" : 13507.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-06",
+  "value" : 13521.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-07",
+  "value" : 13529.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-08",
+  "value" : 13539.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-09",
+  "value" : 13539.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-10",
+  "value" : 13539.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-11",
+  "value" : 13539.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-12",
+  "value" : 13494.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-13",
+  "value" : 13483.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-14",
+  "value" : 13496.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-15",
+  "value" : 13495.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-16",
+  "value" : 13495.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-17",
+  "value" : 13495.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-18",
+  "value" : 13492.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-19",
+  "value" : 13495.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-20",
+  "value" : 13543.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-21",
+  "value" : 13581.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-22",
+  "value" : 13530.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-23",
+  "value" : 13530.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-24",
+  "value" : 13530.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-25",
+  "value" : 13557.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-26",
+  "value" : 13618.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-27",
+  "value" : 13577.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-28",
+  "value" : 13579.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-29",
+  "value" : 13655.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-30",
+  "value" : 13655.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-10-31",
+  "value" : 13655.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-01",
+  "value" : 13655.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-02",
+  "value" : 13678.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-03",
+  "value" : 13659.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-04",
+  "value" : 13691.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-05",
+  "value" : 13702.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-06",
+  "value" : 13702.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-07",
+  "value" : 13702.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-08",
+  "value" : 13735.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-09",
+  "value" : 13736.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-10",
+  "value" : 13745.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-11",
+  "value" : 13712.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-12",
+  "value" : 13713.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-13",
+  "value" : 13713.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-14",
+  "value" : 13713.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-15",
+  "value" : 13703.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-16",
+  "value" : 13700.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-17",
+  "value" : 13721.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-18",
+  "value" : 13707.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-19",
+  "value" : 13707.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-20",
+  "value" : 13707.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-21",
+  "value" : 13707.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-22",
+  "value" : 13749.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-23",
+  "value" : 13771.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-24",
+  "value" : 13732.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-25",
+  "value" : 13755.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-26",
+  "value" : 13792.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-27",
+  "value" : 13792.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-28",
+  "value" : 13792.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-29",
+  "value" : 13800.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-11-30",
+  "value" : 13816.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-01",
+  "value" : 13823.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-02",
+  "value" : 13823.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-03",
+  "value" : 13831.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-04",
+  "value" : 13831.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-05",
+  "value" : 13831.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-06",
+  "value" : 13863.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-07",
+  "value" : 13855.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-08",
+  "value" : 13855.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-09",
+  "value" : 13860.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-10",
+  "value" : 13860.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-11",
+  "value" : 13860.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-12",
+  "value" : 13860.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-13",
+  "value" : 13823.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-14",
+  "value" : 13786.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-15",
+  "value" : 13754.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-16",
+  "value" : 13818.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-17",
+  "value" : 13811.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-18",
+  "value" : 13811.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-19",
+  "value" : 13811.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-20",
+  "value" : 13823.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-21",
+  "value" : 13750.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-22",
+  "value" : 13789.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-23",
+  "value" : 13819.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-24",
+  "value" : 13827.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-25",
+  "value" : 13827.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-26",
+  "value" : 13827.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-27",
+  "value" : 13819.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-28",
+  "value" : 13822.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-29",
+  "value" : 13810.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-30",
+  "value" : 13844.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2004-12-31",
+  "value" : 13836.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-01",
+  "value" : 13836.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-02",
+  "value" : 13836.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-03",
+  "value" : 13841.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-04",
+  "value" : 13859.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-05",
+  "value" : 13866.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-06",
+  "value" : 13817.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-07",
+  "value" : 13745.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-08",
+  "value" : 13745.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-09",
+  "value" : 13745.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-10",
+  "value" : 13722.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-11",
+  "value" : 13734.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-12",
+  "value" : 13731.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-13",
+  "value" : 13721.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-14",
+  "value" : 13702.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-15",
+  "value" : 13702.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-16",
+  "value" : 13702.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-17",
+  "value" : 13749.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-18",
+  "value" : 13793.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-19",
+  "value" : 13824.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-20",
+  "value" : 13798.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-21",
+  "value" : 13831.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-22",
+  "value" : 13831.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-23",
+  "value" : 13831.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-24",
+  "value" : 13789.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-25",
+  "value" : 13779.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-26",
+  "value" : 13829.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-27",
+  "value" : 13857.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-28",
+  "value" : 13909.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-29",
+  "value" : 13909.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-30",
+  "value" : 13909.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-01-31",
+  "value" : 13925.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-01",
+  "value" : 13914.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-02",
+  "value" : 13946.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-03",
+  "value" : 13953.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-04",
+  "value" : 13931.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-05",
+  "value" : 13931.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-06",
+  "value" : 13931.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-07",
+  "value" : 13936.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-08",
+  "value" : 13973.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-09",
+  "value" : 14020.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-10",
+  "value" : 14033.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-11",
+  "value" : 13993.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-12",
+  "value" : 13993.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-13",
+  "value" : 13993.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-14",
+  "value" : 13978.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-15",
+  "value" : 13999.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-16",
+  "value" : 14026.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-17",
+  "value" : 14054.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-18",
+  "value" : 14033.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-19",
+  "value" : 14033.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-20",
+  "value" : 14033.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-21",
+  "value" : 14037.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-22",
+  "value" : 14047.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-23",
+  "value" : 14055.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-24",
+  "value" : 14088.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-25",
+  "value" : 14111.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-26",
+  "value" : 14111.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-27",
+  "value" : 14111.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-02-28",
+  "value" : 14198.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-01",
+  "value" : 14206.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-02",
+  "value" : 14265.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-03",
+  "value" : 14324.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-04",
+  "value" : 14306.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-05",
+  "value" : 14306.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-06",
+  "value" : 14306.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-07",
+  "value" : 14331.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-08",
+  "value" : 14336.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-09",
+  "value" : 14368.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-10",
+  "value" : 14411.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-11",
+  "value" : 14380.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-12",
+  "value" : 14380.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-13",
+  "value" : 14380.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-14",
+  "value" : 14336.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-15",
+  "value" : 14334.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-16",
+  "value" : 14300.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-17",
+  "value" : 14299.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-18",
+  "value" : 14277.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-19",
+  "value" : 14277.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-20",
+  "value" : 14277.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-21",
+  "value" : 14256.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-22",
+  "value" : 14291.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-23",
+  "value" : 14263.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-24",
+  "value" : 14260.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-25",
+  "value" : 14260.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-26",
+  "value" : 14260.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-27",
+  "value" : 14260.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-28",
+  "value" : 14205.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-29",
+  "value" : 14246.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-30",
+  "value" : 14255.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-03-31",
+  "value" : 14216.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-01",
+  "value" : 14234.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-02",
+  "value" : 14234.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-03",
+  "value" : 14234.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-04",
+  "value" : 14259.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-05",
+  "value" : 14276.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-06",
+  "value" : 14263.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-07",
+  "value" : 14275.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-08",
+  "value" : 14271.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-09",
+  "value" : 14271.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-10",
+  "value" : 14271.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-11",
+  "value" : 14309.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-12",
+  "value" : 14309.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-13",
+  "value" : 14337.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-14",
+  "value" : 14333.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-15",
+  "value" : 14340.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-16",
+  "value" : 14340.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-17",
+  "value" : 14340.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-18",
+  "value" : 14293.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-19",
+  "value" : 14285.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-20",
+  "value" : 14230.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-21",
+  "value" : 14282.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-22",
+  "value" : 14277.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-23",
+  "value" : 14277.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-24",
+  "value" : 14277.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-25",
+  "value" : 14278.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-26",
+  "value" : 14288.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-27",
+  "value" : 14335.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-28",
+  "value" : 14311.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-29",
+  "value" : 14284.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-04-30",
+  "value" : 14284.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-01",
+  "value" : 14284.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-02",
+  "value" : 14238.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-03",
+  "value" : 14254.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-04",
+  "value" : 14270.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-05",
+  "value" : 14286.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-06",
+  "value" : 14335.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-07",
+  "value" : 14335.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-08",
+  "value" : 14335.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-09",
+  "value" : 14334.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-10",
+  "value" : 14387.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-11",
+  "value" : 14389.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-12",
+  "value" : 14360.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-13",
+  "value" : 14332.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-14",
+  "value" : 14332.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-15",
+  "value" : 14332.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-16",
+  "value" : 14293.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-17",
+  "value" : 14279.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-18",
+  "value" : 14276.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-19",
+  "value" : 14320.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-20",
+  "value" : 14335.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-21",
+  "value" : 14335.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-22",
+  "value" : 14335.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-23",
+  "value" : 14335.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-24",
+  "value" : 14398.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-25",
+  "value" : 14371.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-26",
+  "value" : 14379.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-27",
+  "value" : 14386.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-28",
+  "value" : 14386.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-29",
+  "value" : 14386.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-30",
+  "value" : 14409.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-05-31",
+  "value" : 14427.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-01",
+  "value" : 14451.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-02",
+  "value" : 14471.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-03",
+  "value" : 14511.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-04",
+  "value" : 14511.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-05",
+  "value" : 14511.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-06",
+  "value" : 14560.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-07",
+  "value" : 14622.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-08",
+  "value" : 14603.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-09",
+  "value" : 14596.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-10",
+  "value" : 14616.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-11",
+  "value" : 14616.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-12",
+  "value" : 14616.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-13",
+  "value" : 14624.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-14",
+  "value" : 14637.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-15",
+  "value" : 14628.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-16",
+  "value" : 14656.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-17",
+  "value" : 14675.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-18",
+  "value" : 14675.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-19",
+  "value" : 14675.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-20",
+  "value" : 14709.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-21",
+  "value" : 14728.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-22",
+  "value" : 14717.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-23",
+  "value" : 14748.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-24",
+  "value" : 14766.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-25",
+  "value" : 14766.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-26",
+  "value" : 14766.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-27",
+  "value" : 14766.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-28",
+  "value" : 14741.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-29",
+  "value" : 14716.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-06-30",
+  "value" : 14736.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-01",
+  "value" : 14734.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-02",
+  "value" : 14734.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-03",
+  "value" : 14734.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-04",
+  "value" : 14709.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-05",
+  "value" : 14735.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-06",
+  "value" : 14732.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-07",
+  "value" : 14746.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-08",
+  "value" : 14751.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-09",
+  "value" : 14751.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-10",
+  "value" : 14751.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-11",
+  "value" : 14741.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-12",
+  "value" : 14777.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-13",
+  "value" : 14807.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-14",
+  "value" : 14832.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-15",
+  "value" : 14856.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-16",
+  "value" : 14856.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-17",
+  "value" : 14856.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-18",
+  "value" : 14856.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-19",
+  "value" : 14837.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-20",
+  "value" : 14847.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-21",
+  "value" : 14915.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-22",
+  "value" : 14898.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-23",
+  "value" : 14898.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-24",
+  "value" : 14898.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-25",
+  "value" : 14905.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-26",
+  "value" : 14945.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-27",
+  "value" : 14918.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-28",
+  "value" : 14932.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-29",
+  "value" : 14973.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-30",
+  "value" : 14973.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-07-31",
+  "value" : 14973.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-01",
+  "value" : 15004.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-02",
+  "value" : 15029.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-03",
+  "value" : 15067.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-04",
+  "value" : 15106.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-05",
+  "value" : 15063.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-06",
+  "value" : 15063.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-07",
+  "value" : 15063.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-08",
+  "value" : 14990.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-09",
+  "value" : 14983.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-10",
+  "value" : 15020.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-11",
+  "value" : 15014.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-12",
+  "value" : 15007.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-13",
+  "value" : 15007.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-14",
+  "value" : 15007.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-15",
+  "value" : 15007.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-16",
+  "value" : 14999.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-17",
+  "value" : 14957.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-18",
+  "value" : 14955.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-19",
+  "value" : 14988.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-20",
+  "value" : 14988.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-21",
+  "value" : 14988.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-22",
+  "value" : 15005.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-23",
+  "value" : 14965.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-24",
+  "value" : 15008.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-25",
+  "value" : 15057.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-26",
+  "value" : 15016.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-27",
+  "value" : 15016.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-28",
+  "value" : 15016.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-29",
+  "value" : 15040.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-30",
+  "value" : 15048.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-08-31",
+  "value" : 15012.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-01",
+  "value" : 14997.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-02",
+  "value" : 15040.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-03",
+  "value" : 15040.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-04",
+  "value" : 15040.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-05",
+  "value" : 15041.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-06",
+  "value" : 15054.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-07",
+  "value" : 15060.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-08",
+  "value" : 15103.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-09",
+  "value" : 15074.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-10",
+  "value" : 15074.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-11",
+  "value" : 15074.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-12",
+  "value" : 15100.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-13",
+  "value" : 15142.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-14",
+  "value" : 15170.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-15",
+  "value" : 15140.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-16",
+  "value" : 15147.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-17",
+  "value" : 15147.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-18",
+  "value" : 15147.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-19",
+  "value" : 15147.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-20",
+  "value" : 15149.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-21",
+  "value" : 15198.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-22",
+  "value" : 15229.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-23",
+  "value" : 15256.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-24",
+  "value" : 15256.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-25",
+  "value" : 15256.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-26",
+  "value" : 15247.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-27",
+  "value" : 15254.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-28",
+  "value" : 15261.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-29",
+  "value" : 15245.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-09-30",
+  "value" : 15239.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-01",
+  "value" : 15239.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-02",
+  "value" : 15239.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-03",
+  "value" : 15232.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-04",
+  "value" : 15256.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-05",
+  "value" : 15295.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-06",
+  "value" : 15286.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-07",
+  "value" : 15219.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-08",
+  "value" : 15219.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-09",
+  "value" : 15219.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-10",
+  "value" : 15219.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-11",
+  "value" : 15174.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-12",
+  "value" : 15144.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-13",
+  "value" : 15146.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-14",
+  "value" : 15118.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-15",
+  "value" : 15118.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-16",
+  "value" : 15118.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-17",
+  "value" : 15085.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-18",
+  "value" : 15037.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-19",
+  "value" : 15018.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-20",
+  "value" : 14987.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-21",
+  "value" : 14918.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-22",
+  "value" : 14918.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-23",
+  "value" : 14918.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-24",
+  "value" : 14923.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-25",
+  "value" : 14959.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-26",
+  "value" : 14990.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-27",
+  "value" : 14998.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-28",
+  "value" : 14972.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-29",
+  "value" : 14972.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-30",
+  "value" : 14972.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-10-31",
+  "value" : 14858.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-01",
+  "value" : 14858.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-02",
+  "value" : 14851.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-03",
+  "value" : 14940.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-04",
+  "value" : 14943.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-05",
+  "value" : 14943.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-06",
+  "value" : 14943.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-07",
+  "value" : 14927.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-08",
+  "value" : 14869.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-09",
+  "value" : 14838.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-10",
+  "value" : 14806.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-11",
+  "value" : 14839.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-12",
+  "value" : 14839.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-13",
+  "value" : 14839.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-14",
+  "value" : 14822.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-15",
+  "value" : 14866.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-16",
+  "value" : 14845.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-17",
+  "value" : 14830.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-18",
+  "value" : 14861.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-19",
+  "value" : 14861.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-20",
+  "value" : 14861.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-21",
+  "value" : 14950.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-22",
+  "value" : 14953.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-23",
+  "value" : 14959.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-24",
+  "value" : 14949.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-25",
+  "value" : 14989.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-26",
+  "value" : 14989.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-27",
+  "value" : 14989.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-28",
+  "value" : 14969.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-29",
+  "value" : 14969.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-11-30",
+  "value" : 14925.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-01",
+  "value" : 14909.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-02",
+  "value" : 14886.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-03",
+  "value" : 14886.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-04",
+  "value" : 14886.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-05",
+  "value" : 14930.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-06",
+  "value" : 14997.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-07",
+  "value" : 14973.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-08",
+  "value" : 14973.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-09",
+  "value" : 14967.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-10",
+  "value" : 14967.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-11",
+  "value" : 14967.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-12",
+  "value" : 14983.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-13",
+  "value" : 14942.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-14",
+  "value" : 14940.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-15",
+  "value" : 14987.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-16",
+  "value" : 14978.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-17",
+  "value" : 14978.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-18",
+  "value" : 14978.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-19",
+  "value" : 15006.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-20",
+  "value" : 15022.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-21",
+  "value" : 14975.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-22",
+  "value" : 14934.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-23",
+  "value" : 14983.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-24",
+  "value" : 14983.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-25",
+  "value" : 14983.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-26",
+  "value" : 14998.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-27",
+  "value" : 15008.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-28",
+  "value" : 14997.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-29",
+  "value" : 14998.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-30",
+  "value" : 15006.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2005-12-31",
+  "value" : 15006.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-01",
+  "value" : 15006.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-02",
+  "value" : 15032.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-03",
+  "value" : 15043.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-04",
+  "value" : 15060.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-05",
+  "value" : 15137.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-06",
+  "value" : 15239.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-07",
+  "value" : 15239.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-08",
+  "value" : 15239.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-09",
+  "value" : 15315.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-10",
+  "value" : 15359.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-11",
+  "value" : 15400.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-12",
+  "value" : 15384.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-13",
+  "value" : 15417.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-14",
+  "value" : 15417.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-15",
+  "value" : 15417.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-16",
+  "value" : 15466.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-17",
+  "value" : 15460.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-18",
+  "value" : 15473.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-19",
+  "value" : 15461.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-20",
+  "value" : 15418.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-21",
+  "value" : 15418.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-22",
+  "value" : 15418.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-23",
+  "value" : 15476.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-24",
+  "value" : 15473.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-25",
+  "value" : 15419.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-26",
+  "value" : 15460.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-27",
+  "value" : 15531.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-28",
+  "value" : 15531.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-29",
+  "value" : 15531.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-30",
+  "value" : 15576.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-01-31",
+  "value" : 15620.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-01",
+  "value" : 15643.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-02",
+  "value" : 15661.25,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-03",
+  "value" : 15669.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-04",
+  "value" : 15669.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-05",
+  "value" : 15669.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-06",
+  "value" : 15632.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-07",
+  "value" : 15581.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-08",
+  "value" : 15614.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-09",
+  "value" : 15605.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-10",
+  "value" : 15569.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-11",
+  "value" : 15569.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-12",
+  "value" : 15569.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-13",
+  "value" : 15604.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-14",
+  "value" : 15624.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-15",
+  "value" : 15571.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-16",
+  "value" : 15571.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-17",
+  "value" : 15562.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-18",
+  "value" : 15562.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-19",
+  "value" : 15562.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-20",
+  "value" : 15555.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-21",
+  "value" : 15586.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-22",
+  "value" : 15579.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-23",
+  "value" : 15624.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-24",
+  "value" : 15645.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-25",
+  "value" : 15645.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-26",
+  "value" : 15645.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-27",
+  "value" : 15678.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-02-28",
+  "value" : 15719.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-01",
+  "value" : 15767.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-02",
+  "value" : 15714.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-03",
+  "value" : 15736.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-04",
+  "value" : 15736.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-05",
+  "value" : 15736.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-06",
+  "value" : 15751.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-07",
+  "value" : 15766.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-08",
+  "value" : 15760.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-09",
+  "value" : 15707.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-10",
+  "value" : 15625.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-11",
+  "value" : 15625.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-12",
+  "value" : 15625.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-13",
+  "value" : 15629.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-14",
+  "value" : 15667.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-15",
+  "value" : 15703.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-16",
+  "value" : 15734.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-17",
+  "value" : 15787.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-18",
+  "value" : 15787.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-19",
+  "value" : 15787.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-20",
+  "value" : 15824.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-21",
+  "value" : 15861.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-22",
+  "value" : 15874.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-23",
+  "value" : 15844.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-24",
+  "value" : 15819.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-25",
+  "value" : 15819.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-26",
+  "value" : 15819.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-27",
+  "value" : 15856.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-28",
+  "value" : 15879.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-29",
+  "value" : 15878.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-30",
+  "value" : 15858.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-03-31",
+  "value" : 15882.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-01",
+  "value" : 15882.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-02",
+  "value" : 15882.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-03",
+  "value" : 15888.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-04",
+  "value" : 15907.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-05",
+  "value" : 15923.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-06",
+  "value" : 15948.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-07",
+  "value" : 15959.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-08",
+  "value" : 15959.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-09",
+  "value" : 15959.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-10",
+  "value" : 15976.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-11",
+  "value" : 15948.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-12",
+  "value" : 15928.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-13",
+  "value" : 15871.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-14",
+  "value" : 15871.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-15",
+  "value" : 15871.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-16",
+  "value" : 15871.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-17",
+  "value" : 15891.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-18",
+  "value" : 15900.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-19",
+  "value" : 15933.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-20",
+  "value" : 16017.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-21",
+  "value" : 16080.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-22",
+  "value" : 16080.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-23",
+  "value" : 16080.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-24",
+  "value" : 16101.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-25",
+  "value" : 16143.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-26",
+  "value" : 16134.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-27",
+  "value" : 16139.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-28",
+  "value" : 16171.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-29",
+  "value" : 16171.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-04-30",
+  "value" : 16171.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-01",
+  "value" : 16171.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-02",
+  "value" : 16138.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-03",
+  "value" : 16161.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-04",
+  "value" : 16192.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-05",
+  "value" : 16208.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-06",
+  "value" : 16208.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-07",
+  "value" : 16208.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-08",
+  "value" : 16237.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-09",
+  "value" : 16303.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-10",
+  "value" : 16358.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-11",
+  "value" : 16344.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-12",
+  "value" : 16330.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-13",
+  "value" : 16330.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-14",
+  "value" : 16330.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-15",
+  "value" : 16282.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-16",
+  "value" : 16235.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-17",
+  "value" : 16103.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-18",
+  "value" : 16087.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-19",
+  "value" : 16023.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-20",
+  "value" : 16023.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-21",
+  "value" : 16023.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-22",
+  "value" : 15922.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-23",
+  "value" : 15916.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-24",
+  "value" : 15802.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-25",
+  "value" : 15815.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-26",
+  "value" : 15769.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-27",
+  "value" : 15769.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-28",
+  "value" : 15769.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-29",
+  "value" : 15800.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-30",
+  "value" : 15887.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-05-31",
+  "value" : 15918.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-01",
+  "value" : 15831.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-02",
+  "value" : 15843.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-03",
+  "value" : 15843.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-04",
+  "value" : 15843.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-05",
+  "value" : 15892.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-06",
+  "value" : 15951.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-07",
+  "value" : 15904.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-08",
+  "value" : 15835.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-09",
+  "value" : 15729.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-10",
+  "value" : 15729.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-11",
+  "value" : 15729.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-12",
+  "value" : 15729.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-13",
+  "value" : 15636.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-14",
+  "value" : 15540.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-15",
+  "value" : 15372.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-16",
+  "value" : 15408.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-17",
+  "value" : 15408.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-18",
+  "value" : 15408.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-19",
+  "value" : 15569.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-20",
+  "value" : 15616.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-21",
+  "value" : 15609.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-22",
+  "value" : 15603.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-23",
+  "value" : 15644.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-24",
+  "value" : 15644.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-25",
+  "value" : 15644.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-26",
+  "value" : 15644.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-27",
+  "value" : 15671.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-28",
+  "value" : 15680.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-29",
+  "value" : 15671.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-06-30",
+  "value" : 15719.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-01",
+  "value" : 15719.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-02",
+  "value" : 15719.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-03",
+  "value" : 15830.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-04",
+  "value" : 15894.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-05",
+  "value" : 15958.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-06",
+  "value" : 15961.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-07",
+  "value" : 15910.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-08",
+  "value" : 15910.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-09",
+  "value" : 15910.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-10",
+  "value" : 15922.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-11",
+  "value" : 15920.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-12",
+  "value" : 15930.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-13",
+  "value" : 15920.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-14",
+  "value" : 15901.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-15",
+  "value" : 15901.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-16",
+  "value" : 15901.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-17",
+  "value" : 15832.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-18",
+  "value" : 15779.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-19",
+  "value" : 15727.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-20",
+  "value" : 15738.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-21",
+  "value" : 15805.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-22",
+  "value" : 15805.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-23",
+  "value" : 15805.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-24",
+  "value" : 15863.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-25",
+  "value" : 15839.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-26",
+  "value" : 15888.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-27",
+  "value" : 15947.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-28",
+  "value" : 15984.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-29",
+  "value" : 15984.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-30",
+  "value" : 15984.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-07-31",
+  "value" : 16039.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-01",
+  "value" : 16080.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-02",
+  "value" : 16087.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-03",
+  "value" : 16057.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-04",
+  "value" : 16100.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-05",
+  "value" : 16100.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-06",
+  "value" : 16100.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-07",
+  "value" : 16123.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-08",
+  "value" : 16155.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-09",
+  "value" : 16161.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-10",
+  "value" : 16177.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-11",
+  "value" : 16195.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-12",
+  "value" : 16195.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-13",
+  "value" : 16195.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-14",
+  "value" : 16169.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-15",
+  "value" : 16169.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-16",
+  "value" : 16166.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-17",
+  "value" : 16220.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-18",
+  "value" : 16229.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-19",
+  "value" : 16229.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-20",
+  "value" : 16229.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-21",
+  "value" : 16245.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-22",
+  "value" : 16218.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-23",
+  "value" : 16209.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-24",
+  "value" : 16224.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-25",
+  "value" : 16200.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-26",
+  "value" : 16200.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-27",
+  "value" : 16200.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-28",
+  "value" : 16200.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-29",
+  "value" : 16207.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-30",
+  "value" : 16239.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-08-31",
+  "value" : 16279.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-01",
+  "value" : 16315.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-02",
+  "value" : 16315.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-03",
+  "value" : 16315.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-04",
+  "value" : 16352.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-05",
+  "value" : 16385.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-06",
+  "value" : 16411.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-07",
+  "value" : 16417.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-08",
+  "value" : 16358.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-09",
+  "value" : 16358.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-10",
+  "value" : 16358.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-11",
+  "value" : 16335.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-12",
+  "value" : 16330.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-13",
+  "value" : 16274.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-14",
+  "value" : 16298.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-15",
+  "value" : 16357.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-16",
+  "value" : 16357.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-17",
+  "value" : 16357.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-18",
+  "value" : 16357.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-19",
+  "value" : 16357.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-20",
+  "value" : 16371.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-21",
+  "value" : 16391.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-22",
+  "value" : 16424.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-23",
+  "value" : 16424.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-24",
+  "value" : 16424.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-25",
+  "value" : 16391.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-26",
+  "value" : 16358.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-27",
+  "value" : 16374.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-28",
+  "value" : 16452.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-29",
+  "value" : 16486.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-09-30",
+  "value" : 16486.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-01",
+  "value" : 16486.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-02",
+  "value" : 16506.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-03",
+  "value" : 16503.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-04",
+  "value" : 16499.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-05",
+  "value" : 16512.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-06",
+  "value" : 16582.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-07",
+  "value" : 16582.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-08",
+  "value" : 16582.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-09",
+  "value" : 16582.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-10",
+  "value" : 16622.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-11",
+  "value" : 16622.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-12",
+  "value" : 16651.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-13",
+  "value" : 16652.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-14",
+  "value" : 16652.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-15",
+  "value" : 16652.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-16",
+  "value" : 16680.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-17",
+  "value" : 16711.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-18",
+  "value" : 16727.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-19",
+  "value" : 16704.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-20",
+  "value" : 16739.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-21",
+  "value" : 16739.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-22",
+  "value" : 16739.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-23",
+  "value" : 16739.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-24",
+  "value" : 16740.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-25",
+  "value" : 16761.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-26",
+  "value" : 16793.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-27",
+  "value" : 16832.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-28",
+  "value" : 16832.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-29",
+  "value" : 16832.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-30",
+  "value" : 16865.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-10-31",
+  "value" : 16869.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-01",
+  "value" : 16869.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-02",
+  "value" : 16836.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-03",
+  "value" : 16873.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-04",
+  "value" : 16873.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-05",
+  "value" : 16873.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-06",
+  "value" : 16858.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-07",
+  "value" : 16855.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-08",
+  "value" : 16924.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-09",
+  "value" : 16977.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-10",
+  "value" : 17014.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-11",
+  "value" : 17014.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-12",
+  "value" : 17014.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-13",
+  "value" : 17026.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-14",
+  "value" : 17019.41,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-15",
+  "value" : 17034.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-16",
+  "value" : 17105.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-17",
+  "value" : 17132.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-18",
+  "value" : 17132.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-19",
+  "value" : 17132.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-20",
+  "value" : 17145.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-21",
+  "value" : 17097.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-22",
+  "value" : 17101.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-23",
+  "value" : 17166.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-24",
+  "value" : 17226.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-25",
+  "value" : 17226.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-26",
+  "value" : 17226.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-27",
+  "value" : 17264.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-28",
+  "value" : 17250.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-29",
+  "value" : 17214.94,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-11-30",
+  "value" : 17214.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-01",
+  "value" : 17304.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-02",
+  "value" : 17304.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-03",
+  "value" : 17304.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-04",
+  "value" : 17332.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-05",
+  "value" : 17321.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-06",
+  "value" : 17346.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-07",
+  "value" : 17417.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-08",
+  "value" : 17417.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-09",
+  "value" : 17417.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-10",
+  "value" : 17417.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-11",
+  "value" : 17423.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-12",
+  "value" : 17419.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-13",
+  "value" : 17438.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-14",
+  "value" : 17443.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-15",
+  "value" : 17497.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-16",
+  "value" : 17497.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-17",
+  "value" : 17497.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-18",
+  "value" : 17545.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-19",
+  "value" : 17612.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-20",
+  "value" : 17609.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-21",
+  "value" : 17580.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-22",
+  "value" : 17633.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-23",
+  "value" : 17633.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-24",
+  "value" : 17633.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-25",
+  "value" : 17633.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-26",
+  "value" : 17635.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-27",
+  "value" : 17643.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-28",
+  "value" : 17672.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-29",
+  "value" : 17721.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-30",
+  "value" : 17721.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2006-12-31",
+  "value" : 17721.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-01",
+  "value" : 17721.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-02",
+  "value" : 17726.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-03",
+  "value" : 17769.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-04",
+  "value" : 17802.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-05",
+  "value" : 17827.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-06",
+  "value" : 17827.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-07",
+  "value" : 17827.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-08",
+  "value" : 17806.33,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-09",
+  "value" : 17756.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-10",
+  "value" : 17745.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-11",
+  "value" : 17691.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-12",
+  "value" : 17604.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-13",
+  "value" : 17604.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-14",
+  "value" : 17604.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-15",
+  "value" : 17723.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-16",
+  "value" : 17803.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-17",
+  "value" : 17864.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-18",
+  "value" : 17859.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-19",
+  "value" : 17864.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-20",
+  "value" : 17864.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-21",
+  "value" : 17864.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-22",
+  "value" : 17910.22,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-23",
+  "value" : 17926.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-24",
+  "value" : 17977.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-25",
+  "value" : 18009.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-26",
+  "value" : 18084.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-27",
+  "value" : 18084.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-28",
+  "value" : 18084.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-29",
+  "value" : 18042.55,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-30",
+  "value" : 18014.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-01-31",
+  "value" : 17981.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-01",
+  "value" : 18013.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-02",
+  "value" : 18079.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-03",
+  "value" : 18079.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-04",
+  "value" : 18079.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-05",
+  "value" : 18211.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-06",
+  "value" : 18254.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-07",
+  "value" : 18284.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-08",
+  "value" : 18354.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-09",
+  "value" : 18392.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-10",
+  "value" : 18392.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-11",
+  "value" : 18392.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-12",
+  "value" : 18384.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-13",
+  "value" : 18409.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-14",
+  "value" : 18372.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-15",
+  "value" : 18413.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-16",
+  "value" : 18497.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-17",
+  "value" : 18497.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-18",
+  "value" : 18497.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-19",
+  "value" : 18515.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-20",
+  "value" : 18519.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-21",
+  "value" : 18470.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-22",
+  "value" : 18380.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-23",
+  "value" : 18342.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-24",
+  "value" : 18342.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-25",
+  "value" : 18342.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-26",
+  "value" : 18407.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-27",
+  "value" : 18333.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-02-28",
+  "value" : 18265.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-01",
+  "value" : 18084.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-02",
+  "value" : 18023.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-03",
+  "value" : 18023.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-04",
+  "value" : 18023.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-05",
+  "value" : 18014.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-06",
+  "value" : 17972.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-07",
+  "value" : 17852.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-08",
+  "value" : 17983.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-09",
+  "value" : 18019.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-10",
+  "value" : 18019.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-11",
+  "value" : 18019.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-12",
+  "value" : 18123.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-13",
+  "value" : 18176.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-14",
+  "value" : 18209.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-15",
+  "value" : 18099.43,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-16",
+  "value" : 18060.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-17",
+  "value" : 18060.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-18",
+  "value" : 18060.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-19",
+  "value" : 18151.42,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-20",
+  "value" : 18175.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-21",
+  "value" : 18258.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-22",
+  "value" : 18292.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-23",
+  "value" : 18364.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-24",
+  "value" : 18364.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-25",
+  "value" : 18364.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-26",
+  "value" : 18420.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-27",
+  "value" : 18412.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-28",
+  "value" : 18408.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-29",
+  "value" : 18383.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-30",
+  "value" : 18358.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-03-31",
+  "value" : 18358.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-01",
+  "value" : 18358.57,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-02",
+  "value" : 18407.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-03",
+  "value" : 18435.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-04",
+  "value" : 18470.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-05",
+  "value" : 18569.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-06",
+  "value" : 18569.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-07",
+  "value" : 18569.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-08",
+  "value" : 18569.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-09",
+  "value" : 18622.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-10",
+  "value" : 18636.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-11",
+  "value" : 18703.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-12",
+  "value" : 18729.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-13",
+  "value" : 18717.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-14",
+  "value" : 18717.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-15",
+  "value" : 18717.29,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-16",
+  "value" : 18749.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-17",
+  "value" : 18818.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-18",
+  "value" : 18858.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-19",
+  "value" : 18847.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-20",
+  "value" : 18863.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-21",
+  "value" : 18863.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-22",
+  "value" : 18863.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-23",
+  "value" : 18909.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-24",
+  "value" : 18968.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-25",
+  "value" : 18927.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-26",
+  "value" : 18940.03,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-27",
+  "value" : 18982.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-28",
+  "value" : 18982.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-29",
+  "value" : 18982.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-04-30",
+  "value" : 18975.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-01",
+  "value" : 18975.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-02",
+  "value" : 18967.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-03",
+  "value" : 18968.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-04",
+  "value" : 18987.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-05",
+  "value" : 18987.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-06",
+  "value" : 18987.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-07",
+  "value" : 19027.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-08",
+  "value" : 19052.83,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-09",
+  "value" : 19060.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-10",
+  "value" : 19030.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-11",
+  "value" : 19062.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-12",
+  "value" : 19062.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-13",
+  "value" : 19062.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-14",
+  "value" : 19036.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-15",
+  "value" : 19039.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-16",
+  "value" : 18986.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-17",
+  "value" : 18948.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-18",
+  "value" : 18999.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-19",
+  "value" : 18999.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-20",
+  "value" : 18999.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-21",
+  "value" : 18999.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-22",
+  "value" : 19029.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-23",
+  "value" : 19017.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-24",
+  "value" : 18969.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-25",
+  "value" : 19006.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-26",
+  "value" : 19006.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-27",
+  "value" : 19006.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-28",
+  "value" : 18965.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-29",
+  "value" : 19031.77,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-30",
+  "value" : 19090.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-05-31",
+  "value" : 19056.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-01",
+  "value" : 19119.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-02",
+  "value" : 19119.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-03",
+  "value" : 19119.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-04",
+  "value" : 19200.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-05",
+  "value" : 19295.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-06",
+  "value" : 19307.00,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-07",
+  "value" : 19278.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-08",
+  "value" : 19203.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-09",
+  "value" : 19203.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-10",
+  "value" : 19203.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-11",
+  "value" : 19106.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-12",
+  "value" : 19162.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-13",
+  "value" : 19184.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-14",
+  "value" : 19180.50,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-15",
+  "value" : 19230.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-16",
+  "value" : 19230.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-17",
+  "value" : 19230.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-18",
+  "value" : 19354.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-19",
+  "value" : 19411.80,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-20",
+  "value" : 19421.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-21",
+  "value" : 19493.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-22",
+  "value" : 19454.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-23",
+  "value" : 19454.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-24",
+  "value" : 19454.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-25",
+  "value" : 19504.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-26",
+  "value" : 19512.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-27",
+  "value" : 19488.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-28",
+  "value" : 19460.79,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-29",
+  "value" : 19464.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-06-30",
+  "value" : 19464.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-01",
+  "value" : 19464.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-02",
+  "value" : 19464.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-03",
+  "value" : 19567.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-04",
+  "value" : 19691.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-05",
+  "value" : 19718.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-06",
+  "value" : 19714.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-07",
+  "value" : 19714.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-08",
+  "value" : 19714.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-09",
+  "value" : 19700.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-10",
+  "value" : 19695.35,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-11",
+  "value" : 19740.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-12",
+  "value" : 19687.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-13",
+  "value" : 19672.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-14",
+  "value" : 19672.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-15",
+  "value" : 19672.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-16",
+  "value" : 19672.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-17",
+  "value" : 19720.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-18",
+  "value" : 19782.10,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-19",
+  "value" : 19790.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-20",
+  "value" : 19772.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-21",
+  "value" : 19772.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-22",
+  "value" : 19772.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-23",
+  "value" : 19832.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-24",
+  "value" : 19818.68,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-25",
+  "value" : 19882.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-26",
+  "value" : 19812.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-27",
+  "value" : 19709.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-28",
+  "value" : 19709.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-29",
+  "value" : 19709.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-30",
+  "value" : 19533.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-07-31",
+  "value" : 19494.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-01",
+  "value" : 19605.85,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-02",
+  "value" : 19613.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-03",
+  "value" : 19501.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-04",
+  "value" : 19501.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-05",
+  "value" : 19501.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-06",
+  "value" : 19562.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-07",
+  "value" : 19438.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-08",
+  "value" : 19362.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-09",
+  "value" : 19372.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-10",
+  "value" : 19481.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-11",
+  "value" : 19481.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-12",
+  "value" : 19481.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-13",
+  "value" : 19307.95,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-14",
+  "value" : 19209.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-15",
+  "value" : 19209.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-16",
+  "value" : 19179.04,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-17",
+  "value" : 18842.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-18",
+  "value" : 18842.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-19",
+  "value" : 18842.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-20",
+  "value" : 18649.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-21",
+  "value" : 18787.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-22",
+  "value" : 18922.37,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-23",
+  "value" : 19040.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-24",
+  "value" : 19190.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-25",
+  "value" : 19190.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-26",
+  "value" : 19190.64,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-27",
+  "value" : 19268.36,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-28",
+  "value" : 19353.01,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-29",
+  "value" : 19372.74,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-30",
+  "value" : 19283.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-08-31",
+  "value" : 19395.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-01",
+  "value" : 19395.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-02",
+  "value" : 19395.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-03",
+  "value" : 19487.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-04",
+  "value" : 19604.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-05",
+  "value" : 19638.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-06",
+  "value" : 19622.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-07",
+  "value" : 19567.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-08",
+  "value" : 19567.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-09",
+  "value" : 19567.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-10",
+  "value" : 19556.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-11",
+  "value" : 19422.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-12",
+  "value" : 19354.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-13",
+  "value" : 19389.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-14",
+  "value" : 19395.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-15",
+  "value" : 19395.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-16",
+  "value" : 19395.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-17",
+  "value" : 19395.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-18",
+  "value" : 19395.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-19",
+  "value" : 19395.17,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-20",
+  "value" : 19462.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-21",
+  "value" : 19717.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-22",
+  "value" : 19717.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-23",
+  "value" : 19717.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-24",
+  "value" : 19743.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-25",
+  "value" : 19772.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-26",
+  "value" : 19797.13,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-27",
+  "value" : 19764.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-28",
+  "value" : 19844.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-29",
+  "value" : 19844.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-09-30",
+  "value" : 19844.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-01",
+  "value" : 19958.69,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-02",
+  "value" : 19988.44,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-03",
+  "value" : 20108.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-04",
+  "value" : 20160.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-05",
+  "value" : 20117.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-06",
+  "value" : 20117.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-07",
+  "value" : 20117.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-08",
+  "value" : 20117.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-09",
+  "value" : 20198.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-10",
+  "value" : 20222.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-11",
+  "value" : 20250.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-12",
+  "value" : 20317.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-13",
+  "value" : 20317.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-14",
+  "value" : 20317.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-15",
+  "value" : 20317.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-16",
+  "value" : 20345.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-17",
+  "value" : 20360.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-18",
+  "value" : 20332.11,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-19",
+  "value" : 20396.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-20",
+  "value" : 20396.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-21",
+  "value" : 20396.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-22",
+  "value" : 20413.92,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-23",
+  "value" : 20319.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-24",
+  "value" : 20338.39,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-25",
+  "value" : 20437.31,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-26",
+  "value" : 20450.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-27",
+  "value" : 20450.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-28",
+  "value" : 20450.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-29",
+  "value" : 20508.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-30",
+  "value" : 20621.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-10-31",
+  "value" : 20697.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-01",
+  "value" : 20697.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-02",
+  "value" : 20670.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-03",
+  "value" : 20670.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-04",
+  "value" : 20670.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-05",
+  "value" : 20645.63,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-06",
+  "value" : 20416.28,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-07",
+  "value" : 20433.26,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-08",
+  "value" : 20431.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-09",
+  "value" : 20344.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-10",
+  "value" : 20344.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-11",
+  "value" : 20344.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-12",
+  "value" : 20279.19,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-13",
+  "value" : 20139.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-14",
+  "value" : 20149.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-15",
+  "value" : 20267.86,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-16",
+  "value" : 20222.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-17",
+  "value" : 20222.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-18",
+  "value" : 20222.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-19",
+  "value" : 20176.75,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-20",
+  "value" : 20036.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-21",
+  "value" : 19992.60,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-22",
+  "value" : 19802.89,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-23",
+  "value" : 19785.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-24",
+  "value" : 19785.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-25",
+  "value" : 19785.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-26",
+  "value" : 19849.78,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-27",
+  "value" : 19877.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-28",
+  "value" : 19789.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-29",
+  "value" : 19912.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-11-30",
+  "value" : 20027.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-01",
+  "value" : 20027.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-02",
+  "value" : 20027.49,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-03",
+  "value" : 20130.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-04",
+  "value" : 20146.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-05",
+  "value" : 20087.82,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-06",
+  "value" : 20158.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-07",
+  "value" : 20230.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-08",
+  "value" : 20230.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-09",
+  "value" : 20230.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-10",
+  "value" : 20311.12,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-11",
+  "value" : 20333.51,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-12",
+  "value" : 20223.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-13",
+  "value" : 20182.91,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-14",
+  "value" : 19924.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-15",
+  "value" : 19924.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-16",
+  "value" : 19924.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-17",
+  "value" : 19804.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-18",
+  "value" : 19655.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-19",
+  "value" : 19574.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-20",
+  "value" : 19565.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-21",
+  "value" : 19628.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-22",
+  "value" : 19628.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-23",
+  "value" : 19628.07,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-24",
+  "value" : 19789.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-25",
+  "value" : 19789.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-26",
+  "value" : 19850.67,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-27",
+  "value" : 19863.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-28",
+  "value" : 19939.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-29",
+  "value" : 19939.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-30",
+  "value" : 19939.99,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2007-12-31",
+  "value" : 19949.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-01",
+  "value" : 19949.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-02",
+  "value" : 19967.97,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-03",
+  "value" : 19959.20,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-04",
+  "value" : 19845.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-05",
+  "value" : 19845.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-06",
+  "value" : 19845.70,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-07",
+  "value" : 19739.34,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-08",
+  "value" : 19615.18,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-09",
+  "value" : 19567.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-10",
+  "value" : 19441.65,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-11",
+  "value" : 19443.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-12",
+  "value" : 19443.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-13",
+  "value" : 19443.14,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-14",
+  "value" : 19423.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-15",
+  "value" : 19331.58,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-16",
+  "value" : 19168.87,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-17",
+  "value" : 18954.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-18",
+  "value" : 18877.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-19",
+  "value" : 18877.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-20",
+  "value" : 18877.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-21",
+  "value" : 18808.62,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-22",
+  "value" : 18488.61,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-23",
+  "value" : 18460.90,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-24",
+  "value" : 18401.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-25",
+  "value" : 18653.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-26",
+  "value" : 18653.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-27",
+  "value" : 18653.27,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-28",
+  "value" : 18836.98,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-29",
+  "value" : 18711.52,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-30",
+  "value" : 18832.32,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-01-31",
+  "value" : 18922.96,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-01",
+  "value" : 18919.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-02",
+  "value" : 18919.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-03",
+  "value" : 18919.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-04",
+  "value" : 19072.15,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-05",
+  "value" : 19152.46,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-06",
+  "value" : 19052.08,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-07",
+  "value" : 18973.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-08",
+  "value" : 18904.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-09",
+  "value" : 18904.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-10",
+  "value" : 18904.81,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-11",
+  "value" : 18916.47,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-12",
+  "value" : 18911.16,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-13",
+  "value" : 19051.23,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-14",
+  "value" : 19129.05,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-15",
+  "value" : 19192.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-16",
+  "value" : 19192.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-17",
+  "value" : 19192.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-18",
+  "value" : 19142.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-19",
+  "value" : 19191.56,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-20",
+  "value" : 19290.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-21",
+  "value" : 19282.93,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-22",
+  "value" : 19375.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-23",
+  "value" : 19375.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-24",
+  "value" : 19375.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-25",
+  "value" : 19372.38,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-26",
+  "value" : 19434.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-27",
+  "value" : 19503.73,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-28",
+  "value" : 19547.48,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-02-29",
+  "value" : 19534.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-01",
+  "value" : 19534.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-02",
+  "value" : 19534.45,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-03",
+  "value" : 19384.24,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-04",
+  "value" : 19264.09,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-05",
+  "value" : 19171.02,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-06",
+  "value" : 19181.21,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-07",
+  "value" : 19150.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-08",
+  "value" : 19150.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-09",
+  "value" : 19150.76,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-10",
+  "value" : 19081.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-11",
+  "value" : 18980.72,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-12",
+  "value" : 19030.54,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-13",
+  "value" : 19168.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-14",
+  "value" : 19111.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-15",
+  "value" : 19111.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-16",
+  "value" : 19111.71,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-17",
+  "value" : 19195.53,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-18",
+  "value" : 19046.84,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-19",
+  "value" : 19098.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-20",
+  "value" : 19097.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-21",
+  "value" : 19097.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-22",
+  "value" : 19097.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-23",
+  "value" : 19097.88,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-24",
+  "value" : 19102.06,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-25",
+  "value" : 19164.59,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-26",
+  "value" : 19280.30,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-27",
+  "value" : 19274.40,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-28",
+  "value" : 19283.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-29",
+  "value" : 19283.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-30",
+  "value" : 19283.66,
+  "symbol" : "SANTA MARIA-C"
+}, {
+  "date" : "2008-03-31",
+  "value" : 19286.56,
+  "symbol" : "SANTA MARIA-C"
+} ]
