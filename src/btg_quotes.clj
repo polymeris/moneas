@@ -44,17 +44,18 @@
 (defn -main
   []
   (doseq [[sym path] funds-symbol->path]
-    (let [filename (str "out/" sym ".json")
+    (let [json-filename (str "out/" sym ".json")
           page (util/fetch-url! (str base-url path))
           [_ json-data] (re-find #"var jsonFondos = '(.*)';" page)
           new-quotes (extract-quotes (json/parse-string json-data true))
-          old-quotes (try (json/parse-string (slurp filename) true)
+          old-quotes (try (json/parse-string (slurp json-filename) true)
                           (catch java.io.FileNotFoundException _ex
-                            (println "Warning. File not found:" filename)
+                            (println "Warning. File not found:" json-filename)
                             nil))
           quotes (->> (merge-quotes old-quotes new-quotes)
                       (map (fn [q] (assoc q :symbol sym))))]
-      (util/write-json! filename quotes))))
+      (util/write-json! json-filename quotes)
+      (util/write-ledger-prices! (str "out/ledger/" sym ".price") quotes "CLP"))))
 
 (if (= "test" (first *command-line-args*))
   (let [{:keys [:fail :error]} (run-tests)]

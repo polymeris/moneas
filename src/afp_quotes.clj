@@ -89,7 +89,10 @@
                     (apply concat))]
     (doseq [[sym quotes] (group-by :symbol quotes)]
       (util/write-json! (str "out/" sym ".json")
-                        quotes))))
+                        quotes)
+      (util/write-ledger-prices! (str "out/ledger/" sym ".price")
+                                 quotes
+                                 "CLP"))))
 
 (if (= "test" (first *command-line-args*))
   (let [{:keys [:fail :error]} (run-tests)]
