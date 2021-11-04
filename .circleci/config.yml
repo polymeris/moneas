@@ -10,7 +10,7 @@ commands:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "12:ba:f4:f4:c5:ad:80:73:b0:2c:da:a9:36:5b:95:a0"
+            - "22:e9:41:c7:6a:be:43:21:0d:42:66:fb:de:a6:b0:df"
       - run:
           name: Install & config git
           command: |
