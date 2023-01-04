@@ -7,7 +7,7 @@
 (def base-url "https://btgpactual.cl/")
 
 (def funds-symbol->path {"CFIBTGRCA" "renta-comercial/"
-                         "CFIBTGRRA" "enta-residencial/"
+                         "CFIBTGRRA" "renta-residencial/"
                          "CFIREMERGE" "infraestructura/"
                          "CFIBTGCYFA" "credito-y-facturas/"
                          "CFIBTGFGIA" "financiamiento-con-garantias-inmobiliarias/"
