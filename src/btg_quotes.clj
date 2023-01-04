@@ -9,9 +9,7 @@
 (def funds-symbol->path {"CFIBTGRCA" "renta-comercial/"
                          "CFIBTGRRA" "renta-residencial/"
                          "CFIREMERGE" "infraestructura/"
-                         "CFIBTGCYFA" "credito-y-facturas/"
-                         "CFIBTGFGIA" "financiamiento-con-garantias-inmobiliarias/"
-                         "CFIMHEA-E" "mhe-habitacional/"})
+                         "CFIBTGCYFA" "credito-y-facturas/"})
 
 (defn extract-quotes
   [data]
