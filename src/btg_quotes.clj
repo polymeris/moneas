@@ -4,7 +4,7 @@
          '[clojure.test :refer [deftest is run-tests]]
          '[util])
 
-(def base-url "https://www.btgpactual.cl/")
+(def base-url "https://btgpactual.cl/")
 
 (def funds-symbol->path {"CFIBTGRCA" "renta-comercial/"
                          "CFIBTGRRA" "enta-residencial/"
