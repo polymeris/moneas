@@ -6,12 +6,12 @@
 
 (def base-url "https://www.btgpactual.cl/")
 
-(def funds-symbol->path {"CFIBTGRCA" "fondo-de-inversion/renta-comercial/"
-                         "CFIBTGRRA" "fondo-de-inversion/renta-residencial/"
-                         "CFIREMERGE" "fondo-de-inversion/infraestructura/"
-                         "CFIBTGCYFA" "fondo-de-inversion/credito-y-facturas/"
-                         "CFIBTGFGIA" "fondo-de-inversion/financiamiento-con-garantias-inmobiliarias/"
-                         "CFIMHEA-E" "fondo-de-inversion/mhe-habitacional/"})
+(def funds-symbol->path {"CFIBTGRCA" "renta-comercial/"
+                         "CFIBTGRRA" "enta-residencial/"
+                         "CFIREMERGE" "infraestructura/"
+                         "CFIBTGCYFA" "credito-y-facturas/"
+                         "CFIBTGFGIA" "financiamiento-con-garantias-inmobiliarias/"
+                         "CFIMHEA-E" "mhe-habitacional/"})
 
 (defn extract-quotes
   [data]
