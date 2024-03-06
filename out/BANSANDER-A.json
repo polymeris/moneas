@@ -1,0 +1,4509 @@
+[ {
+  "date" : "2005-03-01",
+  "value" : 16150.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-02",
+  "value" : 16305.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-03",
+  "value" : 16411.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-04",
+  "value" : 16314.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-05",
+  "value" : 16314.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-06",
+  "value" : 16314.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-07",
+  "value" : 16373.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-08",
+  "value" : 16387.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-09",
+  "value" : 16472.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-10",
+  "value" : 16555.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-11",
+  "value" : 16466.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-12",
+  "value" : 16466.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-13",
+  "value" : 16466.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-14",
+  "value" : 16353.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-15",
+  "value" : 16389.14,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-16",
+  "value" : 16299.78,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-17",
+  "value" : 16281.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-18",
+  "value" : 16200.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-19",
+  "value" : 16200.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-20",
+  "value" : 16200.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-21",
+  "value" : 16135.61,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-22",
+  "value" : 16226.76,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-23",
+  "value" : 16131.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-24",
+  "value" : 16126.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-25",
+  "value" : 16126.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-26",
+  "value" : 16126.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-27",
+  "value" : 16126.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-28",
+  "value" : 15977.01,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-29",
+  "value" : 16038.18,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-30",
+  "value" : 16016.67,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-03-31",
+  "value" : 15939.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-01",
+  "value" : 15991.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-02",
+  "value" : 15991.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-03",
+  "value" : 15991.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-04",
+  "value" : 16048.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-05",
+  "value" : 16101.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-06",
+  "value" : 16028.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-07",
+  "value" : 16064.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-08",
+  "value" : 16053.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-09",
+  "value" : 16053.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-10",
+  "value" : 16053.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-11",
+  "value" : 16141.40,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-12",
+  "value" : 16130.41,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-13",
+  "value" : 16182.02,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-14",
+  "value" : 16143.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-15",
+  "value" : 16157.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-16",
+  "value" : 16157.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-17",
+  "value" : 16157.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-18",
+  "value" : 16009.61,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-19",
+  "value" : 15947.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-20",
+  "value" : 15783.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-21",
+  "value" : 15921.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-22",
+  "value" : 15912.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-23",
+  "value" : 15912.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-24",
+  "value" : 15912.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-25",
+  "value" : 15919.58,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-26",
+  "value" : 15939.55,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-27",
+  "value" : 16019.44,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-28",
+  "value" : 15954.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-29",
+  "value" : 15909.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-04-30",
+  "value" : 15909.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-01",
+  "value" : 15909.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-02",
+  "value" : 15793.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-03",
+  "value" : 15819.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-04",
+  "value" : 15849.43,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-05",
+  "value" : 15872.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-06",
+  "value" : 15977.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-07",
+  "value" : 15977.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-08",
+  "value" : 15977.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-09",
+  "value" : 15980.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-10",
+  "value" : 16089.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-11",
+  "value" : 16096.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-12",
+  "value" : 16040.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-13",
+  "value" : 15958.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-14",
+  "value" : 15958.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-15",
+  "value" : 15958.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-16",
+  "value" : 15881.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-17",
+  "value" : 15867.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-18",
+  "value" : 15847.01,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-19",
+  "value" : 15913.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-20",
+  "value" : 15953.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-21",
+  "value" : 15953.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-22",
+  "value" : 15953.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-23",
+  "value" : 15953.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-24",
+  "value" : 16084.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-25",
+  "value" : 16012.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-26",
+  "value" : 16038.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-27",
+  "value" : 16043.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-28",
+  "value" : 16043.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-29",
+  "value" : 16043.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-30",
+  "value" : 16066.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-05-31",
+  "value" : 16119.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-01",
+  "value" : 16168.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-02",
+  "value" : 16177.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-03",
+  "value" : 16220.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-04",
+  "value" : 16220.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-05",
+  "value" : 16220.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-06",
+  "value" : 16319.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-07",
+  "value" : 16442.98,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-08",
+  "value" : 16361.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-09",
+  "value" : 16359.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-10",
+  "value" : 16401.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-11",
+  "value" : 16401.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-12",
+  "value" : 16401.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-13",
+  "value" : 16384.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-14",
+  "value" : 16406.90,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-15",
+  "value" : 16375.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-16",
+  "value" : 16447.18,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-17",
+  "value" : 16471.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-18",
+  "value" : 16471.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-19",
+  "value" : 16471.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-20",
+  "value" : 16539.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-21",
+  "value" : 16620.55,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-22",
+  "value" : 16557.41,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-23",
+  "value" : 16601.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-24",
+  "value" : 16654.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-25",
+  "value" : 16654.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-26",
+  "value" : 16654.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-27",
+  "value" : 16654.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-28",
+  "value" : 16582.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-29",
+  "value" : 16509.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-06-30",
+  "value" : 16550.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-01",
+  "value" : 16566.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-02",
+  "value" : 16566.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-03",
+  "value" : 16566.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-04",
+  "value" : 16506.05,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-05",
+  "value" : 16591.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-06",
+  "value" : 16574.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-07",
+  "value" : 16603.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-08",
+  "value" : 16609.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-09",
+  "value" : 16609.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-10",
+  "value" : 16609.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-11",
+  "value" : 16539.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-12",
+  "value" : 16642.90,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-13",
+  "value" : 16718.69,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-14",
+  "value" : 16788.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-15",
+  "value" : 16819.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-16",
+  "value" : 16819.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-17",
+  "value" : 16819.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-18",
+  "value" : 16821.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-19",
+  "value" : 16760.26,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-20",
+  "value" : 16774.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-21",
+  "value" : 16926.85,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-22",
+  "value" : 16887.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-23",
+  "value" : 16887.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-24",
+  "value" : 16887.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-25",
+  "value" : 16915.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-26",
+  "value" : 16992.90,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-27",
+  "value" : 16920.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-28",
+  "value" : 16942.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-29",
+  "value" : 17035.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-30",
+  "value" : 17035.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-07-31",
+  "value" : 17035.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-01",
+  "value" : 17102.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-02",
+  "value" : 17148.36,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-03",
+  "value" : 17225.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-04",
+  "value" : 17330.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-05",
+  "value" : 17221.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-06",
+  "value" : 17221.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-07",
+  "value" : 17221.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-08",
+  "value" : 17069.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-09",
+  "value" : 17099.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-10",
+  "value" : 17164.50,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-11",
+  "value" : 17154.66,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-12",
+  "value" : 17174.58,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-13",
+  "value" : 17174.58,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-14",
+  "value" : 17174.58,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-15",
+  "value" : 17174.58,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-16",
+  "value" : 17160.07,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-17",
+  "value" : 17062.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-18",
+  "value" : 17045.98,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-19",
+  "value" : 17130.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-20",
+  "value" : 17130.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-21",
+  "value" : 17130.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-22",
+  "value" : 17132.26,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-23",
+  "value" : 17004.58,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-24",
+  "value" : 17150.09,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-25",
+  "value" : 17216.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-26",
+  "value" : 17055.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-27",
+  "value" : 17055.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-28",
+  "value" : 17055.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-29",
+  "value" : 17115.90,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-30",
+  "value" : 17126.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-08-31",
+  "value" : 17020.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-01",
+  "value" : 17004.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-02",
+  "value" : 17133.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-03",
+  "value" : 17133.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-04",
+  "value" : 17133.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-05",
+  "value" : 17150.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-06",
+  "value" : 17227.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-07",
+  "value" : 17241.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-08",
+  "value" : 17353.50,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-09",
+  "value" : 17252.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-10",
+  "value" : 17252.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-11",
+  "value" : 17252.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-12",
+  "value" : 17340.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-13",
+  "value" : 17428.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-14",
+  "value" : 17476.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-15",
+  "value" : 17391.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-16",
+  "value" : 17413.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-17",
+  "value" : 17413.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-18",
+  "value" : 17413.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-19",
+  "value" : 17413.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-20",
+  "value" : 17417.61,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-21",
+  "value" : 17540.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-22",
+  "value" : 17592.31,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-23",
+  "value" : 17642.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-24",
+  "value" : 17642.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-25",
+  "value" : 17642.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-26",
+  "value" : 17602.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-27",
+  "value" : 17612.36,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-28",
+  "value" : 17659.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-29",
+  "value" : 17659.36,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-09-30",
+  "value" : 17642.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-01",
+  "value" : 17642.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-02",
+  "value" : 17642.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-03",
+  "value" : 17658.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-04",
+  "value" : 17712.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-05",
+  "value" : 17781.26,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-06",
+  "value" : 17800.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-07",
+  "value" : 17653.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-08",
+  "value" : 17653.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-09",
+  "value" : 17653.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-10",
+  "value" : 17653.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-11",
+  "value" : 17496.40,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-12",
+  "value" : 17457.18,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-13",
+  "value" : 17548.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-14",
+  "value" : 17512.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-15",
+  "value" : 17512.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-16",
+  "value" : 17512.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-17",
+  "value" : 17366.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-18",
+  "value" : 17243.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-19",
+  "value" : 17270.85,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-20",
+  "value" : 17228.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-21",
+  "value" : 17037.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-22",
+  "value" : 17037.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-23",
+  "value" : 17037.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-24",
+  "value" : 17070.44,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-25",
+  "value" : 17128.65,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-26",
+  "value" : 17204.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-27",
+  "value" : 17263.01,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-28",
+  "value" : 17235.91,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-29",
+  "value" : 17235.91,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-30",
+  "value" : 17235.91,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-10-31",
+  "value" : 17024.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-01",
+  "value" : 17024.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-02",
+  "value" : 17048.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-03",
+  "value" : 17319.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-04",
+  "value" : 17394.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-05",
+  "value" : 17394.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-06",
+  "value" : 17394.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-07",
+  "value" : 17340.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-08",
+  "value" : 17243.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-09",
+  "value" : 17254.61,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-10",
+  "value" : 17154.02,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-11",
+  "value" : 17241.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-12",
+  "value" : 17241.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-13",
+  "value" : 17241.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-14",
+  "value" : 17183.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-15",
+  "value" : 17310.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-16",
+  "value" : 17228.53,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-17",
+  "value" : 17203.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-18",
+  "value" : 17268.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-19",
+  "value" : 17268.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-20",
+  "value" : 17268.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-21",
+  "value" : 17482.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-22",
+  "value" : 17471.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-23",
+  "value" : 17527.09,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-24",
+  "value" : 17469.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-25",
+  "value" : 17570.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-26",
+  "value" : 17570.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-27",
+  "value" : 17570.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-28",
+  "value" : 17537.36,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-29",
+  "value" : 17554.81,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-11-30",
+  "value" : 17504.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-01",
+  "value" : 17501.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-02",
+  "value" : 17436.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-03",
+  "value" : 17436.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-04",
+  "value" : 17436.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-05",
+  "value" : 17526.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-06",
+  "value" : 17694.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-07",
+  "value" : 17648.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-08",
+  "value" : 17648.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-09",
+  "value" : 17654.41,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-10",
+  "value" : 17654.41,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-11",
+  "value" : 17654.41,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-12",
+  "value" : 17736.43,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-13",
+  "value" : 17617.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-14",
+  "value" : 17663.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-15",
+  "value" : 17796.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-16",
+  "value" : 17782.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-17",
+  "value" : 17782.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-18",
+  "value" : 17782.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-19",
+  "value" : 17838.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-20",
+  "value" : 17835.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-21",
+  "value" : 17692.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-22",
+  "value" : 17627.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-23",
+  "value" : 17807.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-24",
+  "value" : 17807.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-25",
+  "value" : 17807.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-26",
+  "value" : 17841.40,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-27",
+  "value" : 17835.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-28",
+  "value" : 17839.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-29",
+  "value" : 17811.67,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-30",
+  "value" : 17820.05,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2005-12-31",
+  "value" : 17820.05,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-01",
+  "value" : 17820.05,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-02",
+  "value" : 17864.96,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-03",
+  "value" : 17864.01,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-04",
+  "value" : 17919.88,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-05",
+  "value" : 18120.85,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-06",
+  "value" : 18333.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-07",
+  "value" : 18333.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-08",
+  "value" : 18333.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-09",
+  "value" : 18492.14,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-10",
+  "value" : 18582.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-11",
+  "value" : 18667.78,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-12",
+  "value" : 18632.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-13",
+  "value" : 18700.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-14",
+  "value" : 18700.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-15",
+  "value" : 18700.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-16",
+  "value" : 18799.67,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-17",
+  "value" : 18783.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-18",
+  "value" : 18807.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-19",
+  "value" : 18720.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-20",
+  "value" : 18588.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-21",
+  "value" : 18588.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-22",
+  "value" : 18588.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-23",
+  "value" : 18748.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-24",
+  "value" : 18734.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-25",
+  "value" : 18634.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-26",
+  "value" : 18730.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-27",
+  "value" : 18878.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-28",
+  "value" : 18878.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-29",
+  "value" : 18878.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-30",
+  "value" : 18961.05,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-01-31",
+  "value" : 19078.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-01",
+  "value" : 19128.18,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-02",
+  "value" : 19145.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-03",
+  "value" : 19160.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-04",
+  "value" : 19160.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-05",
+  "value" : 19160.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-06",
+  "value" : 19079.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-07",
+  "value" : 18955.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-08",
+  "value" : 19037.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-09",
+  "value" : 18999.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-10",
+  "value" : 18912.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-11",
+  "value" : 18912.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-12",
+  "value" : 18912.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-13",
+  "value" : 18978.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-14",
+  "value" : 19016.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-15",
+  "value" : 18915.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-16",
+  "value" : 18917.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-17",
+  "value" : 18900.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-18",
+  "value" : 18900.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-19",
+  "value" : 18900.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-20",
+  "value" : 18919.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-21",
+  "value" : 18985.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-22",
+  "value" : 18969.76,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-23",
+  "value" : 19030.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-24",
+  "value" : 19063.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-25",
+  "value" : 19063.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-26",
+  "value" : 19063.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-27",
+  "value" : 19126.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-02-28",
+  "value" : 19203.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-01",
+  "value" : 19306.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-02",
+  "value" : 19178.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-03",
+  "value" : 19247.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-04",
+  "value" : 19247.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-05",
+  "value" : 19247.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-06",
+  "value" : 19285.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-07",
+  "value" : 19296.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-08",
+  "value" : 19260.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-09",
+  "value" : 19136.96,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-10",
+  "value" : 18935.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-11",
+  "value" : 18935.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-12",
+  "value" : 18935.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-13",
+  "value" : 18949.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-14",
+  "value" : 19026.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-15",
+  "value" : 19129.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-16",
+  "value" : 19184.88,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-17",
+  "value" : 19309.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-18",
+  "value" : 19309.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-19",
+  "value" : 19309.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-20",
+  "value" : 19374.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-21",
+  "value" : 19464.48,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-22",
+  "value" : 19492.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-23",
+  "value" : 19400.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-24",
+  "value" : 19345.26,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-25",
+  "value" : 19345.26,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-26",
+  "value" : 19345.26,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-27",
+  "value" : 19417.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-28",
+  "value" : 19472.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-29",
+  "value" : 19460.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-30",
+  "value" : 19382.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-03-31",
+  "value" : 19462.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-01",
+  "value" : 19462.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-02",
+  "value" : 19462.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-03",
+  "value" : 19492.07,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-04",
+  "value" : 19544.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-05",
+  "value" : 19634.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-06",
+  "value" : 19708.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-07",
+  "value" : 19744.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-08",
+  "value" : 19744.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-09",
+  "value" : 19744.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-10",
+  "value" : 19775.64,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-11",
+  "value" : 19712.61,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-12",
+  "value" : 19675.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-13",
+  "value" : 19547.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-14",
+  "value" : 19547.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-15",
+  "value" : 19547.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-16",
+  "value" : 19547.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-17",
+  "value" : 19561.65,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-18",
+  "value" : 19591.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-19",
+  "value" : 19672.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-20",
+  "value" : 19882.85,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-21",
+  "value" : 20019.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-22",
+  "value" : 20019.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-23",
+  "value" : 20019.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-24",
+  "value" : 20073.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-25",
+  "value" : 20129.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-26",
+  "value" : 20110.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-27",
+  "value" : 20124.81,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-28",
+  "value" : 20208.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-29",
+  "value" : 20208.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-04-30",
+  "value" : 20208.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-01",
+  "value" : 20208.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-02",
+  "value" : 20125.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-03",
+  "value" : 20202.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-04",
+  "value" : 20310.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-05",
+  "value" : 20344.02,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-06",
+  "value" : 20344.02,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-07",
+  "value" : 20344.02,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-08",
+  "value" : 20409.66,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-09",
+  "value" : 20538.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-10",
+  "value" : 20673.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-11",
+  "value" : 20657.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-12",
+  "value" : 20627.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-13",
+  "value" : 20627.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-14",
+  "value" : 20627.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-15",
+  "value" : 20524.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-16",
+  "value" : 20365.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-17",
+  "value" : 20013.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-18",
+  "value" : 19995.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-19",
+  "value" : 19853.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-20",
+  "value" : 19853.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-21",
+  "value" : 19853.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-22",
+  "value" : 19601.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-23",
+  "value" : 19547.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-24",
+  "value" : 19235.36,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-25",
+  "value" : 19258.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-26",
+  "value" : 19148.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-27",
+  "value" : 19148.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-28",
+  "value" : 19148.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-29",
+  "value" : 19205.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-30",
+  "value" : 19431.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-05-31",
+  "value" : 19510.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-01",
+  "value" : 19301.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-02",
+  "value" : 19290.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-03",
+  "value" : 19290.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-04",
+  "value" : 19290.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-05",
+  "value" : 19385.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-06",
+  "value" : 19516.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-07",
+  "value" : 19418.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-08",
+  "value" : 19215.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-09",
+  "value" : 18981.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-10",
+  "value" : 18981.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-11",
+  "value" : 18981.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-12",
+  "value" : 18981.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-13",
+  "value" : 18750.48,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-14",
+  "value" : 18524.53,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-15",
+  "value" : 18184.01,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-16",
+  "value" : 18246.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-17",
+  "value" : 18246.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-18",
+  "value" : 18246.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-19",
+  "value" : 18588.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-20",
+  "value" : 18687.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-21",
+  "value" : 18657.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-22",
+  "value" : 18635.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-23",
+  "value" : 18735.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-24",
+  "value" : 18735.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-25",
+  "value" : 18735.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-26",
+  "value" : 18735.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-27",
+  "value" : 18776.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-28",
+  "value" : 18811.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-29",
+  "value" : 18781.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-06-30",
+  "value" : 18881.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-01",
+  "value" : 18881.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-02",
+  "value" : 18881.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-03",
+  "value" : 19155.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-04",
+  "value" : 19297.40,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-05",
+  "value" : 19440.76,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-06",
+  "value" : 19469.30,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-07",
+  "value" : 19337.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-08",
+  "value" : 19337.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-09",
+  "value" : 19337.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-10",
+  "value" : 19365.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-11",
+  "value" : 19365.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-12",
+  "value" : 19392.88,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-13",
+  "value" : 19349.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-14",
+  "value" : 19285.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-15",
+  "value" : 19285.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-16",
+  "value" : 19285.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-17",
+  "value" : 19087.48,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-18",
+  "value" : 18946.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-19",
+  "value" : 18822.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-20",
+  "value" : 18823.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-21",
+  "value" : 18975.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-22",
+  "value" : 18975.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-23",
+  "value" : 18975.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-24",
+  "value" : 19093.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-25",
+  "value" : 19016.05,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-26",
+  "value" : 19129.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-27",
+  "value" : 19256.91,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-28",
+  "value" : 19320.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-29",
+  "value" : 19320.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-30",
+  "value" : 19320.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-07-31",
+  "value" : 19433.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-01",
+  "value" : 19523.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-02",
+  "value" : 19556.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-03",
+  "value" : 19483.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-04",
+  "value" : 19559.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-05",
+  "value" : 19559.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-06",
+  "value" : 19559.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-07",
+  "value" : 19601.43,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-08",
+  "value" : 19659.69,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-09",
+  "value" : 19651.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-10",
+  "value" : 19682.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-11",
+  "value" : 19706.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-12",
+  "value" : 19706.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-13",
+  "value" : 19706.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-14",
+  "value" : 19649.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-15",
+  "value" : 19649.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-16",
+  "value" : 19632.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-17",
+  "value" : 19763.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-18",
+  "value" : 19797.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-19",
+  "value" : 19797.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-20",
+  "value" : 19797.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-21",
+  "value" : 19838.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-22",
+  "value" : 19790.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-23",
+  "value" : 19748.84,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-24",
+  "value" : 19784.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-25",
+  "value" : 19709.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-26",
+  "value" : 19709.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-27",
+  "value" : 19709.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-28",
+  "value" : 19697.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-29",
+  "value" : 19710.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-30",
+  "value" : 19769.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-08-31",
+  "value" : 19855.31,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-01",
+  "value" : 19915.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-02",
+  "value" : 19915.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-03",
+  "value" : 19915.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-04",
+  "value" : 19963.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-05",
+  "value" : 20041.44,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-06",
+  "value" : 20091.31,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-07",
+  "value" : 20103.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-08",
+  "value" : 19950.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-09",
+  "value" : 19950.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-10",
+  "value" : 19950.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-11",
+  "value" : 19876.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-12",
+  "value" : 19863.14,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-13",
+  "value" : 19723.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-14",
+  "value" : 19775.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-15",
+  "value" : 19901.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-16",
+  "value" : 19901.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-17",
+  "value" : 19901.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-18",
+  "value" : 19901.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-19",
+  "value" : 19901.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-20",
+  "value" : 19904.91,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-21",
+  "value" : 19968.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-22",
+  "value" : 20027.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-23",
+  "value" : 20027.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-24",
+  "value" : 20027.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-25",
+  "value" : 19963.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-26",
+  "value" : 19857.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-27",
+  "value" : 19876.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-28",
+  "value" : 20041.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-29",
+  "value" : 20106.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-09-30",
+  "value" : 20106.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-01",
+  "value" : 20106.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-02",
+  "value" : 20132.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-03",
+  "value" : 20137.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-04",
+  "value" : 20130.14,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-05",
+  "value" : 20105.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-06",
+  "value" : 20234.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-07",
+  "value" : 20234.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-08",
+  "value" : 20234.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-09",
+  "value" : 20234.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-10",
+  "value" : 20312.40,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-11",
+  "value" : 20298.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-12",
+  "value" : 20351.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-13",
+  "value" : 20351.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-14",
+  "value" : 20351.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-15",
+  "value" : 20351.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-16",
+  "value" : 20430.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-17",
+  "value" : 20499.55,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-18",
+  "value" : 20537.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-19",
+  "value" : 20475.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-20",
+  "value" : 20546.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-21",
+  "value" : 20546.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-22",
+  "value" : 20546.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-23",
+  "value" : 20544.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-24",
+  "value" : 20543.41,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-25",
+  "value" : 20587.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-26",
+  "value" : 20632.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-27",
+  "value" : 20714.65,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-28",
+  "value" : 20714.65,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-29",
+  "value" : 20714.65,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-30",
+  "value" : 20774.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-10-31",
+  "value" : 20737.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-01",
+  "value" : 20737.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-02",
+  "value" : 20659.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-03",
+  "value" : 20738.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-04",
+  "value" : 20738.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-05",
+  "value" : 20738.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-06",
+  "value" : 20713.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-07",
+  "value" : 20729.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-08",
+  "value" : 20872.84,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-09",
+  "value" : 20969.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-10",
+  "value" : 21007.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-11",
+  "value" : 21007.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-12",
+  "value" : 21007.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-13",
+  "value" : 21054.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-14",
+  "value" : 21035.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-15",
+  "value" : 21048.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-16",
+  "value" : 21174.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-17",
+  "value" : 21220.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-18",
+  "value" : 21220.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-19",
+  "value" : 21220.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-20",
+  "value" : 21256.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-21",
+  "value" : 21163.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-22",
+  "value" : 21165.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-23",
+  "value" : 21295.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-24",
+  "value" : 21406.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-25",
+  "value" : 21406.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-26",
+  "value" : 21406.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-27",
+  "value" : 21478.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-28",
+  "value" : 21442.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-29",
+  "value" : 21373.69,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-11-30",
+  "value" : 21319.26,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-01",
+  "value" : 21529.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-02",
+  "value" : 21529.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-03",
+  "value" : 21529.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-04",
+  "value" : 21593.76,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-05",
+  "value" : 21584.31,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-06",
+  "value" : 21634.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-07",
+  "value" : 21772.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-08",
+  "value" : 21772.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-09",
+  "value" : 21772.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-10",
+  "value" : 21772.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-11",
+  "value" : 21788.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-12",
+  "value" : 21766.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-13",
+  "value" : 21795.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-14",
+  "value" : 21785.65,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-15",
+  "value" : 21856.43,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-16",
+  "value" : 21856.43,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-17",
+  "value" : 21856.43,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-18",
+  "value" : 21961.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-19",
+  "value" : 22101.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-20",
+  "value" : 22084.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-21",
+  "value" : 21986.18,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-22",
+  "value" : 22099.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-23",
+  "value" : 22099.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-24",
+  "value" : 22099.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-25",
+  "value" : 22099.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-26",
+  "value" : 22093.31,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-27",
+  "value" : 22108.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-28",
+  "value" : 22164.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-29",
+  "value" : 22294.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-30",
+  "value" : 22294.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2006-12-31",
+  "value" : 22294.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-01",
+  "value" : 22294.80,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-02",
+  "value" : 22327.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-03",
+  "value" : 22414.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-04",
+  "value" : 22477.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-05",
+  "value" : 22516.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-06",
+  "value" : 22516.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-07",
+  "value" : 22516.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-08",
+  "value" : 22430.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-09",
+  "value" : 22324.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-10",
+  "value" : 22284.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-11",
+  "value" : 22177.30,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-12",
+  "value" : 21995.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-13",
+  "value" : 21995.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-14",
+  "value" : 21995.27,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-15",
+  "value" : 22199.20,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-16",
+  "value" : 22353.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-17",
+  "value" : 22476.24,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-18",
+  "value" : 22485.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-19",
+  "value" : 22487.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-20",
+  "value" : 22487.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-21",
+  "value" : 22487.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-22",
+  "value" : 22556.88,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-23",
+  "value" : 22590.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-24",
+  "value" : 22683.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-25",
+  "value" : 22737.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-26",
+  "value" : 22865.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-27",
+  "value" : 22865.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-28",
+  "value" : 22865.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-29",
+  "value" : 22771.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-30",
+  "value" : 22704.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-01-31",
+  "value" : 22671.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-01",
+  "value" : 22726.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-02",
+  "value" : 22825.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-03",
+  "value" : 22825.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-04",
+  "value" : 22825.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-05",
+  "value" : 23063.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-06",
+  "value" : 23126.88,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-07",
+  "value" : 23183.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-08",
+  "value" : 23320.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-09",
+  "value" : 23357.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-10",
+  "value" : 23357.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-11",
+  "value" : 23357.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-12",
+  "value" : 23292.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-13",
+  "value" : 23319.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-14",
+  "value" : 23222.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-15",
+  "value" : 23330.85,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-16",
+  "value" : 23508.78,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-17",
+  "value" : 23508.78,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-18",
+  "value" : 23508.78,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-19",
+  "value" : 23567.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-20",
+  "value" : 23574.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-21",
+  "value" : 23505.94,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-22",
+  "value" : 23364.66,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-23",
+  "value" : 23308.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-24",
+  "value" : 23308.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-25",
+  "value" : 23308.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-26",
+  "value" : 23425.14,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-27",
+  "value" : 23309.35,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-02-28",
+  "value" : 23223.84,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-01",
+  "value" : 22822.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-02",
+  "value" : 22652.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-03",
+  "value" : 22652.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-04",
+  "value" : 22652.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-05",
+  "value" : 22578.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-06",
+  "value" : 22458.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-07",
+  "value" : 22145.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-08",
+  "value" : 22405.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-09",
+  "value" : 22480.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-10",
+  "value" : 22480.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-11",
+  "value" : 22480.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-12",
+  "value" : 22695.64,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-13",
+  "value" : 22813.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-14",
+  "value" : 22874.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-15",
+  "value" : 22636.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-16",
+  "value" : 22533.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-17",
+  "value" : 22533.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-18",
+  "value" : 22533.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-19",
+  "value" : 22700.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-20",
+  "value" : 22729.66,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-21",
+  "value" : 22886.55,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-22",
+  "value" : 22977.14,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-23",
+  "value" : 23136.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-24",
+  "value" : 23136.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-25",
+  "value" : 23136.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-26",
+  "value" : 23264.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-27",
+  "value" : 23274.18,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-28",
+  "value" : 23258.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-29",
+  "value" : 23167.78,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-30",
+  "value" : 23126.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-03-31",
+  "value" : 23126.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-01",
+  "value" : 23126.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-02",
+  "value" : 23253.10,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-03",
+  "value" : 23289.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-04",
+  "value" : 23344.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-05",
+  "value" : 23521.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-06",
+  "value" : 23521.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-07",
+  "value" : 23521.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-08",
+  "value" : 23521.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-09",
+  "value" : 23623.31,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-10",
+  "value" : 23636.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-11",
+  "value" : 23761.01,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-12",
+  "value" : 23817.43,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-13",
+  "value" : 23772.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-14",
+  "value" : 23772.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-15",
+  "value" : 23772.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-16",
+  "value" : 23839.88,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-17",
+  "value" : 23975.36,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-18",
+  "value" : 24048.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-19",
+  "value" : 24017.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-20",
+  "value" : 24006.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-21",
+  "value" : 24006.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-22",
+  "value" : 24006.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-23",
+  "value" : 24100.64,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-24",
+  "value" : 24213.31,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-25",
+  "value" : 24146.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-26",
+  "value" : 24142.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-27",
+  "value" : 24236.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-28",
+  "value" : 24236.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-29",
+  "value" : 24236.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-04-30",
+  "value" : 24216.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-01",
+  "value" : 24216.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-02",
+  "value" : 24203.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-03",
+  "value" : 24172.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-04",
+  "value" : 24254.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-05",
+  "value" : 24254.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-06",
+  "value" : 24254.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-07",
+  "value" : 24371.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-08",
+  "value" : 24439.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-09",
+  "value" : 24438.58,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-10",
+  "value" : 24390.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-11",
+  "value" : 24453.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-12",
+  "value" : 24453.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-13",
+  "value" : 24453.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-14",
+  "value" : 24370.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-15",
+  "value" : 24454.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-16",
+  "value" : 24367.31,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-17",
+  "value" : 24326.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-18",
+  "value" : 24437.07,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-19",
+  "value" : 24437.07,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-20",
+  "value" : 24437.07,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-21",
+  "value" : 24437.07,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-22",
+  "value" : 24530.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-23",
+  "value" : 24594.16,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-24",
+  "value" : 24528.71,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-25",
+  "value" : 24569.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-26",
+  "value" : 24569.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-27",
+  "value" : 24569.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-28",
+  "value" : 24435.01,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-29",
+  "value" : 24540.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-30",
+  "value" : 24679.84,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-05-31",
+  "value" : 24626.36,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-01",
+  "value" : 24764.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-02",
+  "value" : 24764.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-03",
+  "value" : 24764.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-04",
+  "value" : 24916.02,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-05",
+  "value" : 25095.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-06",
+  "value" : 25121.98,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-07",
+  "value" : 25075.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-08",
+  "value" : 24934.76,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-09",
+  "value" : 24934.76,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-10",
+  "value" : 24934.76,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-11",
+  "value" : 24706.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-12",
+  "value" : 24812.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-13",
+  "value" : 24899.90,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-14",
+  "value" : 24887.75,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-15",
+  "value" : 25022.30,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-16",
+  "value" : 25022.30,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-17",
+  "value" : 25022.30,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-18",
+  "value" : 25263.40,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-19",
+  "value" : 25433.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-20",
+  "value" : 25466.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-21",
+  "value" : 25557.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-22",
+  "value" : 25497.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-23",
+  "value" : 25497.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-24",
+  "value" : 25497.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-25",
+  "value" : 25565.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-26",
+  "value" : 25555.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-27",
+  "value" : 25507.61,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-28",
+  "value" : 25421.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-29",
+  "value" : 25423.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-06-30",
+  "value" : 25423.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-01",
+  "value" : 25423.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-02",
+  "value" : 25423.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-03",
+  "value" : 25620.56,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-04",
+  "value" : 25859.73,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-05",
+  "value" : 25940.09,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-06",
+  "value" : 25957.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-07",
+  "value" : 25957.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-08",
+  "value" : 25957.82,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-09",
+  "value" : 25944.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-10",
+  "value" : 25991.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-11",
+  "value" : 26078.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-12",
+  "value" : 25974.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-13",
+  "value" : 25946.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-14",
+  "value" : 25946.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-15",
+  "value" : 25946.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-16",
+  "value" : 25946.77,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-17",
+  "value" : 26076.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-18",
+  "value" : 26169.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-19",
+  "value" : 26165.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-20",
+  "value" : 26106.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-21",
+  "value" : 26106.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-22",
+  "value" : 26106.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-23",
+  "value" : 26225.98,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-24",
+  "value" : 26217.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-25",
+  "value" : 26370.98,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-26",
+  "value" : 26221.41,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-27",
+  "value" : 26023.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-28",
+  "value" : 26023.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-29",
+  "value" : 26023.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-30",
+  "value" : 25641.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-07-31",
+  "value" : 25517.49,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-01",
+  "value" : 25743.02,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-02",
+  "value" : 25722.52,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-03",
+  "value" : 25471.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-04",
+  "value" : 25471.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-05",
+  "value" : 25471.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-06",
+  "value" : 25591.36,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-07",
+  "value" : 25394.81,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-08",
+  "value" : 25214.91,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-09",
+  "value" : 25253.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-10",
+  "value" : 25492.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-11",
+  "value" : 25492.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-12",
+  "value" : 25492.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-13",
+  "value" : 25187.43,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-14",
+  "value" : 24922.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-15",
+  "value" : 24922.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-16",
+  "value" : 24910.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-17",
+  "value" : 24248.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-18",
+  "value" : 24248.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-19",
+  "value" : 24248.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-20",
+  "value" : 23689.18,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-21",
+  "value" : 23888.41,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-22",
+  "value" : 24153.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-23",
+  "value" : 24349.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-24",
+  "value" : 24690.48,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-25",
+  "value" : 24690.48,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-26",
+  "value" : 24690.48,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-27",
+  "value" : 24867.64,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-28",
+  "value" : 25038.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-29",
+  "value" : 25099.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-30",
+  "value" : 24895.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-08-31",
+  "value" : 25048.64,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-01",
+  "value" : 25048.64,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-02",
+  "value" : 25048.64,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-03",
+  "value" : 25223.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-04",
+  "value" : 25497.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-05",
+  "value" : 25544.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-06",
+  "value" : 25577.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-07",
+  "value" : 25471.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-08",
+  "value" : 25471.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-09",
+  "value" : 25471.97,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-10",
+  "value" : 25477.47,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-11",
+  "value" : 25225.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-12",
+  "value" : 25084.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-13",
+  "value" : 25211.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-14",
+  "value" : 25224.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-15",
+  "value" : 25224.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-16",
+  "value" : 25224.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-17",
+  "value" : 25224.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-18",
+  "value" : 25224.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-19",
+  "value" : 25224.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-20",
+  "value" : 25342.81,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-21",
+  "value" : 25922.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-22",
+  "value" : 25922.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-23",
+  "value" : 25922.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-24",
+  "value" : 25976.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-25",
+  "value" : 26062.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-26",
+  "value" : 26195.34,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-27",
+  "value" : 26144.25,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-28",
+  "value" : 26335.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-29",
+  "value" : 26335.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-09-30",
+  "value" : 26335.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-01",
+  "value" : 26555.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-02",
+  "value" : 26608.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-03",
+  "value" : 26853.44,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-04",
+  "value" : 26943.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-05",
+  "value" : 26803.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-06",
+  "value" : 26803.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-07",
+  "value" : 26803.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-08",
+  "value" : 26808.26,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-09",
+  "value" : 27007.40,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-10",
+  "value" : 27045.30,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-11",
+  "value" : 27102.05,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-12",
+  "value" : 27281.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-13",
+  "value" : 27281.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-14",
+  "value" : 27281.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-15",
+  "value" : 27281.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-16",
+  "value" : 27356.59,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-17",
+  "value" : 27414.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-18",
+  "value" : 27282.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-19",
+  "value" : 27445.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-20",
+  "value" : 27445.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-21",
+  "value" : 27445.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-22",
+  "value" : 27442.89,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-23",
+  "value" : 27154.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-24",
+  "value" : 27093.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-25",
+  "value" : 27372.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-26",
+  "value" : 27383.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-27",
+  "value" : 27383.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-28",
+  "value" : 27383.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-29",
+  "value" : 27490.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-30",
+  "value" : 27762.20,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-10-31",
+  "value" : 27975.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-01",
+  "value" : 27975.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-02",
+  "value" : 27907.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-03",
+  "value" : 27907.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-04",
+  "value" : 27907.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-05",
+  "value" : 27861.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-06",
+  "value" : 27417.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-07",
+  "value" : 27488.90,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-08",
+  "value" : 27531.55,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-09",
+  "value" : 27276.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-10",
+  "value" : 27276.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-11",
+  "value" : 27276.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-12",
+  "value" : 27137.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-13",
+  "value" : 26766.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-14",
+  "value" : 26699.65,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-15",
+  "value" : 27020.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-16",
+  "value" : 26957.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-17",
+  "value" : 26957.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-18",
+  "value" : 26957.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-19",
+  "value" : 26816.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-20",
+  "value" : 26536.95,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-21",
+  "value" : 26414.62,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-22",
+  "value" : 26039.85,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-23",
+  "value" : 25895.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-24",
+  "value" : 25895.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-25",
+  "value" : 25895.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-26",
+  "value" : 25997.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-27",
+  "value" : 26132.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-28",
+  "value" : 25933.44,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-29",
+  "value" : 26149.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-11-30",
+  "value" : 26460.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-01",
+  "value" : 26460.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-02",
+  "value" : 26460.13,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-03",
+  "value" : 26645.05,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-04",
+  "value" : 26690.33,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-05",
+  "value" : 26630.66,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-06",
+  "value" : 26773.67,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-07",
+  "value" : 26894.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-08",
+  "value" : 26894.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-09",
+  "value" : 26894.39,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-10",
+  "value" : 27014.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-11",
+  "value" : 27043.19,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-12",
+  "value" : 26909.29,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-13",
+  "value" : 26819.68,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-14",
+  "value" : 26405.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-15",
+  "value" : 26405.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-16",
+  "value" : 26405.23,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-17",
+  "value" : 26067.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-18",
+  "value" : 25721.01,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-19",
+  "value" : 25547.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-20",
+  "value" : 25576.63,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-21",
+  "value" : 25615.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-22",
+  "value" : 25615.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-23",
+  "value" : 25615.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-24",
+  "value" : 25860.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-25",
+  "value" : 25860.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-26",
+  "value" : 26034.54,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-27",
+  "value" : 26064.98,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-28",
+  "value" : 26247.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-29",
+  "value" : 26247.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-30",
+  "value" : 26247.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2007-12-31",
+  "value" : 26261.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-01",
+  "value" : 26261.32,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-02",
+  "value" : 26293.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-03",
+  "value" : 26256.40,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-04",
+  "value" : 26054.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-05",
+  "value" : 26054.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-06",
+  "value" : 26054.86,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-07",
+  "value" : 25866.30,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-08",
+  "value" : 25630.08,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-09",
+  "value" : 25502.38,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-10",
+  "value" : 25384.00,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-11",
+  "value" : 25400.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-12",
+  "value" : 25400.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-13",
+  "value" : 25400.72,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-14",
+  "value" : 25332.04,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-15",
+  "value" : 25190.06,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-16",
+  "value" : 24865.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-17",
+  "value" : 24375.93,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-18",
+  "value" : 24205.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-19",
+  "value" : 24205.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-20",
+  "value" : 24205.28,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-21",
+  "value" : 24039.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-22",
+  "value" : 23478.69,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-23",
+  "value" : 23155.17,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-24",
+  "value" : 23117.48,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-25",
+  "value" : 23472.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-26",
+  "value" : 23472.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-27",
+  "value" : 23472.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-28",
+  "value" : 23846.67,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-29",
+  "value" : 23678.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-30",
+  "value" : 23835.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-01-31",
+  "value" : 23866.69,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-01",
+  "value" : 23865.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-02",
+  "value" : 23865.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-03",
+  "value" : 23865.74,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-04",
+  "value" : 24157.46,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-05",
+  "value" : 24367.78,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-06",
+  "value" : 24162.14,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-07",
+  "value" : 23950.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-08",
+  "value" : 23804.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-09",
+  "value" : 23804.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-10",
+  "value" : 23804.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-11",
+  "value" : 23824.60,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-12",
+  "value" : 23746.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-13",
+  "value" : 24017.45,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-14",
+  "value" : 24181.15,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-15",
+  "value" : 24350.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-16",
+  "value" : 24350.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-17",
+  "value" : 24350.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-18",
+  "value" : 24277.87,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-19",
+  "value" : 24345.76,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-20",
+  "value" : 24563.67,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-21",
+  "value" : 24533.57,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-22",
+  "value" : 24712.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-23",
+  "value" : 24712.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-24",
+  "value" : 24712.22,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-25",
+  "value" : 24691.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-26",
+  "value" : 24823.79,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-27",
+  "value" : 24993.99,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-28",
+  "value" : 25133.12,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-02-29",
+  "value" : 25076.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-01",
+  "value" : 25076.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-02",
+  "value" : 25076.03,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-03",
+  "value" : 24752.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-04",
+  "value" : 24465.88,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-05",
+  "value" : 24245.65,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-06",
+  "value" : 24223.37,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-07",
+  "value" : 24174.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-08",
+  "value" : 24174.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-09",
+  "value" : 24174.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-10",
+  "value" : 23910.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-11",
+  "value" : 23618.92,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-12",
+  "value" : 23714.42,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-13",
+  "value" : 23933.70,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-14",
+  "value" : 23748.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-15",
+  "value" : 23748.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-16",
+  "value" : 23748.83,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-17",
+  "value" : 23751.50,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-18",
+  "value" : 23418.51,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-19",
+  "value" : 23483.61,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-20",
+  "value" : 23477.20,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-21",
+  "value" : 23477.20,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-22",
+  "value" : 23477.20,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-23",
+  "value" : 23477.20,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-24",
+  "value" : 23433.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-25",
+  "value" : 23568.11,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-26",
+  "value" : 23936.21,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-27",
+  "value" : 23979.55,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-28",
+  "value" : 23953.44,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-29",
+  "value" : 23953.44,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-30",
+  "value" : 23953.44,
+  "symbol" : "BANSANDER-A"
+}, {
+  "date" : "2008-03-31",
+  "value" : 24075.17,
+  "symbol" : "BANSANDER-A"
+} ]
